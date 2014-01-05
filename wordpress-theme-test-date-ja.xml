@@ -8145,31 +8145,57 @@ Quisque interdum felis a tellus. Aliquam sed diam ac velit aliquam rutrum. Morbi
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/lorem-ipsum/</guid>
 		<description></description>
 		<content:encoded><![CDATA[　何思ったか、武者修行はそこへ坐りこんだ。面積一坪ほどな平石ひらいしの前にである。坐ってみるとちょうど机の高さぐらいに肱ひじがつけるのだ。
+
 「ふッ……ふッ……」
+
 　焦やけていた石の砂を息で吹く、砂とともに蟻ありの列もふき飛んでゆく。
+
 　ふたつの肱をつくと、編笠はしばらく頬杖に乗っている。陽ざかりで、石はみな照り返すし、草いきれは逆さに顔を撫でるし、さぞ暑いだろうに、身うごきもしない。城の工事に眺め入っているのである。
 
+
+
 　少し離れた所に、又八がいることなどは、意に介さない様子であった。又八もそこへ来てそういう態ていをしている武者修行があろうとあるまいと、もとより自分に何の交渉があるわけではないし、頭や胸も依然として不快なので、時折、胃から生唾なまつばを吐きながら、背を向けて休んでいた。
+
 　――と。その苦しげな息を耳にとめたのだろう。編笠がうごいて、
+
 「石曳き」
+
 　と、声をかけ、
+
 「どういたした？」
+
 「へい……暑さ中あたりで」
+
 「苦しいのか」
+
 「少し落ちつきましたが……まだこう吐きそうなんで」
+
 「薬をやろう」
+
 　印籠を割って、黒い粒を掌てのひらへうつし、起って来て又八の口へ入れてくれた。
+
 「すぐ癒なおる」
+
 「ありがとう存じます」
+
 「にがいか」
+
 「そんなでもございません」
+
 「まだ、貴様はそこで、仕事を休んでおるのか」
+
 「へ……」
+
 「誰か参ったら、ちょっとおれの方へ声をかけてくれ、小石で合図をしてくれてもいい、頼むぞ」
+
 　武者修行は、そういって、前の位置に坐りこむと、今度はすぐ矢立から筆を取り出し、半紙綴とじの懐中ふところ手帖を石の上にひろげて、ものを書くことに没頭しはじめた。
 
+
+
 　笠のつば越しに、彼の眼のやりばが、間断なく城へ向ったり、城の外のほうへ行ったり、また城のうしろの山の線や、河川の位置や、天守などへ、転々とうごいてゆくところを見ると、その筆の先は、伏見城の地理と廓外廓内の眼づもりを、絵図に写とっているにちがいなかった。
+
 　関ヶ原の戦いくさの直前に、この城は西軍の浮田勢と島津勢に攻められて、その増田廓ますだぐるわや大蔵廓おおくらぐるわや、また諸所の塁濠るいごうなどもかなり破壊されたものだったが、今では、太閤時代の旧観にさらに鉄壁の威厳を加えて、一衣帯水の大坂城を睥睨へいげいしていた。
+
 　今――武者修行が熱心に写している見取図みとりずをのぞくと、彼は、いつの折かに、その城のうしろをおおっている大亀谷や伏見山からもこの城地を俯瞰ふかんして、べつに一面の搦手図からめてずを写しているらしく、いかにも精密なものが出来かかっている。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>146</wp:post_id>
@@ -8209,7 +8235,9 @@ Quisque interdum felis a tellus. Aliquam sed diam ac velit aliquam rutrum. Morbi
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/page-with-comments/</guid>
 		<description></description>
 		<content:encoded><![CDATA[公式レポジトリでホスティングされているテーマは、個別投稿ページに加え固定ページでもコメント表示に対応している必要があります。この固定ページにはコメントがついており、コメントが表示されるべきです。
+
 テーマに固定ページでのコメント表示を無効にするカスタムオプションが含まれている場合は、そういったオプションはデフォルトでは無効化してください (固定ページにコメントが表示されるようにする) 。
+
 また、固定ページにはタクソノミー情報 (例: カテゴリーまたはタグ) やタイムスタンプ情報 (固定ページの公開日時) が表示されないようにしてください。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>155</wp:post_id>
@@ -8291,6 +8319,7 @@ Quisque interdum felis a tellus. Aliquam sed diam ac velit aliquam rutrum. Morbi
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/page-with-comments-disabled/</guid>
 		<description></description>
 		<content:encoded><![CDATA[この固定ページではコメントが無効化されています。このページにコメント一覧、コメント返信リンク、コメント返信フォームが表示されないようにしてください。
+
 また、「コメントは受け付けていません」というメッセージも表示されるべきではありません。このメッセージは固定ページには適切ではないため、ブログ投稿の場合にのみ表示するようにしましょう。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>156</wp:post_id>
@@ -9283,13 +9312,22 @@ Quisque interdum felis a tellus. Aliquam sed diam ac velit aliquam rutrum. Morbi
 		<description></description>
 		<content:encoded><![CDATA[このサイトは、コンテンツのための標準のWordPressのテーマユニットテストデータを使用しています。テーマユニットテストは、WordPressのコーデックス上のチェックリストと一致する一連の投稿や固定ページです。あなたのテーマをテストするために一緒に、データとチェックリストを使用することができます。
 
+
+
 <h2>WordPressテーマ開発リソース</h2>
 
+
+
 <ol>
+
 	<li><a href="http://codex.wordpress.org/Theme_Development">テーマ開発</a> の <a href="http://codex.wordpress.org/Theme_Development#Code_Standards">コード規格</a>、テーマ開発のベストプラクティスおよび<a href="http://codex.wordpress.org/Theme_Development#Resources_and_References">リソースと参考資料</a>。</li>
+
 	<li><a href="http://codex.wordpress.org/Theme_Unit_Test">テーマユニットテスト</a> テーマのためにテストを一式行うための最新バージョンのテストデータ。</li>
+
 	<li><a href="http://codex.wordpress.org/Theme_Review">テーマレビュー</a> あなたのテーマを<a href="http://wordpress.org/extend/themes/">テーマディレクトリ</a>に登録するためのガイド。</li>
+
 </ol>
+
 (日本語版は開発用テストデータとなります。公式ディレクトリ登録用のテストデータは英語版をご使用ください。英語版<a href="http://codex.wordpress.org/Theme_Unit_Test">テーマユニットテスト</a>　)]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5</wp:post_id>
@@ -9329,6 +9367,8 @@ Quisque interdum felis a tellus. Aliquam sed diam ac velit aliquam rutrum. Morbi
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/</guid>
 		<description></description>
 		<content:encoded><![CDATA[この固定ページのコンテンツのうち最後の項目はフロートされた画像です。その後の要素が適切にクリアされているか確認して下さい。
+
+
 
 <img class="alignleft size-thumbnail wp-image-827" title="カメラ" src="http://wpthemetestdata.files.wordpress.com/2010/08/manhattansummer.jpg?w=150" alt="" width="150" height="112" />]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9370,7 +9410,11 @@ Quisque interdum felis a tellus. Aliquam sed diam ac velit aliquam rutrum. Morbi
 		<description></description>
 		<content:encoded><![CDATA[この固定ページを使ってテーマのフロントページテンプレートファイル処理をテストできます。
 
+
+
 これはフロントページのコンテンツです。この固定ページを使って、テーマのフロントページ出力をテストしましょう。テーマでは、ブログ投稿インデックスおよび固定ページのいずれがフロントページになった場合も適切に表示される必要があります。
+
+
 
 もしサイトがブログ投稿インデックスをフロントページとして表示するように設定している場合、このテキストは表示されないようにしてください。 If the site is もしサイトが固定ページをフロントページとして表示するように設定している場合、このテキストが表示されるようにしてください。テーマ内に front-page.php テンプレートファイルが含まれていない場合、このテキストはフロントページが固定ページに設定されている場合には表示されるべきです。テーマ内に front-page.php テンプレートが含まれていない場合、このテキストは表示される場合とされない場合があります。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9449,10 +9493,15 @@ Quisque interdum felis a tellus. Aliquam sed diam ac velit aliquam rutrum. Morbi
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?page_id=733</guid>
 		<description></description>
 		<content:encoded><![CDATA[　笠を拾って、怪異なその顔へかむると、武者修行はさっと足を速めた。風のように彼方へ向って逃げ出したのである。勿論、そこまでの行動は極めて短い間だった。蟻のように労働している何百という石曳きも、鞭や十手を持って、そのあぶら汗を叱咤している監督も、誰も気づく遑いとまがなかったほどに――
+
 　だが、その広い工事場を、絶えず高い所から見渡している独特な眼があった。それは丸太組の櫓やぐらのうえにいる棟梁衆とうりょうしゅうや作事与力の上役だった。そこから突然、大きな声が放たれたと思うと、櫓の下の湯呑み所の板がこいの中で、大釜の火にいぶされながら働いていた足軽たちが、
+
 「なんだ？」
+
 「何だ」
+
 「また、喧嘩か」
+
 　と、外へ飛び出した。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>733</wp:post_id>
@@ -9682,77 +9731,149 @@ Quisque interdum felis a tellus. Aliquam sed diam ac velit aliquam rutrum. Morbi
 		<guid isPermaLink="false">http://wptest.io/demo/?p=1000</guid>
 		<description></description>
 		<content:encoded><![CDATA[ネスト化された混合リストでは以下が正しく表示されるようにしてください。
+
 <ul>
+
 	<li>リストの中のリストは番号付きリストの順番を壊さないこと</li>
+
 	<li><span style="line-height: 1.714285714; font-size: 1rem;">箇条書きのスタイルの深さは十分であること</span></li>
+
 </ul>
+
 <h3>番号付きリスト - 番号なしリスト - 番号付きリスト</h3>
+
 <ol>
+
 	<li>番号付きリストアイテム</li>
+
 	<li>番号付きリストアイテム
+
 <ul>
+
 	<li><strong>番号なし</strong></li>
+
 	<li><strong>番号なし</strong>
+
 <ol>
+
 	<li>番号付きリストアイテム</li>
+
 	<li>番号付きリストアイテム</li>
+
 </ol>
+
 </li>
+
 </ul>
+
 </li>
+
 	<li>番号付きリストアイテム</li>
+
 	<li>番号付きリストアイテム</li>
+
 </ol>
+
 <h3>番号付きリスト - 番号なしリスト - 番号なしリスト</h3>
+
 <ol>
+
 	<li>番号付きリストアイテム</li>
+
 	<li>番号付きリストアイテム
+
 <ul>
+
 	<li><strong>番号なし</strong></li>
+
 	<li><strong>番号なし</strong>
+
 <ul>
+
 	<li>番号なしリストアイテム</li>
+
 	<li>番号なしリストアイテム</li>
+
 </ul>
+
 </li>
+
 </ul>
+
 </li>
+
 	<li>番号付きリストアイテム</li>
+
 	<li>番号付きリストアイテム</li>
+
 </ol>
+
 <h3>番号なしリスト - 番号付きリスト - 番号なしリスト</h3>
+
 <ul>
+
 	<li>番号なしリストアイテム</li>
+
 	<li>番号なしリストアイテム
+
 <ol>
+
 	<li>番号付き</li>
+
 	<li>番号付き
+
 <ul>
+
 	<li>番号なしリストアイテム</li>
+
 	<li>番号なしリストアイテム</li>
+
 </ul>
+
 </li>
+
 </ol>
+
 </li>
+
 	<li>番号なしリストアイテム</li>
+
 	<li>番号なしリストアイテム</li>
+
 </ul>
+
 <h3>番号なしリスト - 番号なしリスト - 番号付きリスト</h3>
+
 <ul>
+
 	<li>番号なしリストアイテム</li>
+
 	<li>番号なしリストアイテム
+
 <ul>
+
 	<li>番号なし</li>
+
 	<li>番号なし
+
 <ol>
+
 	<li><strong>番号付きリストアイテム</strong></li>
+
 	<li><strong>番号付きリストアイテム</strong></li>
+
 </ol>
+
 </li>
+
 </ul>
+
 </li>
+
 	<li>番号なしリストアイテム</li>
+
 	<li>番号なしリストアイテム</li>
+
 </ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1000</wp:post_id>
@@ -9859,50 +9980,97 @@ Quisque interdum felis a tellus. Aliquam sed diam ac velit aliquam rutrum. Morbi
 		<description></description>
 		<content:encoded><![CDATA[画像の配置テストへようこそ ! 画像をいろいろな位置に配置してみるのに一番良い方法は、言葉の海の中に画像をそっとうずめてみることです。さあ、はじめましょう。
 
+
+
 画像の配置では、ユーザーが「指定なし」「右寄せ」「左寄せ」「中央揃え」の中から自分の好きなものを選べるようにする必要があります。さらに、「サムネイル」「中サイズ」「大サイズ」「フルサイズ」という選択肢の中から大きさを選べるようにするべきです。
 
+
+
 <p style="text-align: center;"><img class="size-full wp-image-906 aligncenter" title="画像配置 580x300" alt="画像配置 580x300" src="http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-580x300.jpg" width="580" height="300" /></p>
+
 上記の画像は<strong>中央寄せ</strong>になるはずです。
+
+
 
 <strong><img class="size-full wp-image-904 alignleft" title="画像配置 150x150" alt="画像配置 150x150" src="http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-150x150.jpg" width="150" height="150" /></strong>このパラグラフの残り画像を左寄せしたとき、文章が150ピクセルの画像の周りを囲むようになるかどうか見るためのものです。<strong></strong>
 
+
+
 ご覧のとおり、画像の上・下・右にスペースが空いている事がわかると思います。テキストは画像にこっそりと忍びよってはいません、忍び寄ることは良くない事です。画像だって十分に呼吸ができるスペースが必要なのです。画像が文章にイライラさせられることなく役割を果たせるようにしてあげてください。次の文章では、テキストが画像の右から下へとシームレスに途切れることなく続いている事がわかりますね。これで完了です !
+
+
 
 次は、<strong>とても大きな画像</strong>のテストです。そして、この画像には<strong>配置の指定がありません</strong>。
 
+
+
 <img class="alignnone  wp-image-907" title="画像配置 1200x400" alt="画像配置 1200x400" src="http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" />
+
+
 
 上記の画像は1200ピクセルもありますが、コンテンツエリアからはみ出る事はなく収まっています。
 
+
+
 <img class="size-full wp-image-905 alignright" title="画像配置 300x200" alt="画像配置 300x200" src="http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-300x200.jpg" width="300" height="200" />
+
+
 
 そして今後は右寄せに移りたいと思います。また今度も、画像の上、下、左に十分な余白があると思います。ほら、あっちにいる彼を見てください ! 右側の方にいるあの画像 ! 左寄せ画像がなんて言うかなんてどうでもいいんです、美しい配置ですよ。他の人の意見なんて気にしないでいいんです。
 
+
+
 そしてこのへんでテキストが右寄せの画像の下に回り込んで、ちょうど良い具合に収まっているのが分かると思います。ひきつづきちょうど良い具合にスペースが残されていて、すべてがきれいに表示されているべきです。そうです…。右画像に回り込むのって気持ちいいですね。
+
+
 
 さて、これで終わりと思ったかもしれませんが、これからキャプションのテストに入ります !
 
+
+
 [caption id="attachment_906" align="aligncenter" width="580"]<img class="size-full wp-image-906  " title="画像配置 580x300" alt="画像配置 580x300" src="http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-580x300.jpg" width="580" height="300" /> 580x300 画像の<a title="画像設定" href="http://en.support.wordpress.com/images/image-settings/">キャプション</a>例。[/caption]
+
+
 
 上記の画像は<strong>中央寄せ</strong>になるはずです。キャプションにはリンクが含まれていますが、おかしな表示になっていないか確認しましょう。
 
+
+
 [caption id="attachment_904" align="alignleft" width="150"]<img class="size-full wp-image-904  " title="画像配置 150x150" alt="画像配置 150x150" src="http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-150x150.jpg" width="150" height="150" /> ちょっとしたキャプション[/caption]
+
+
 
 このパラグラフの残りの部分は、150x150 サイズの<strong>左寄せ</strong>画像の回り込みをテストするためのつなぎです。 
 
+
+
 ご覧の通り、画像の上・下・右にスペースが必要です。テキストは画像にこっそりと忍びよってはいません、忍び寄ることは良くない事です。画像だって十分に呼吸ができるスペースが必要なのです。画像が文章にイライラさせられることなく役割を果たせるようにしてあげてください。次の文章では、テキストが画像の右から下へとシームレスに途切れることなく続いている事がわかりますね。これで完了です !
+
+
 
 それでは、<strong>とても大きな画像</strong>のテストです。そして、この画像にも<strong>配置の指定はありません</strong>。
 
+
+
 [caption id="attachment_907" align="alignnone" width="1200"]<img class=" wp-image-907" title="画像配置 1200x400" alt="画像配置 1200x400" src="http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" /> とても大きな画像のコメント[/caption]
+
+
 
 上記の画像は1200ピクセル幅ですが、コンテンツエリアからはみ出すべきではありません。コンテンツのフローを視覚的に邪魔しないかたちで、指定のエリア内に収まっている必要があります。
 
+
+
 [caption id="attachment_905" align="alignright" width="300"]<img class="size-full wp-image-905 " title="画像配置 300x200" alt="画像配置 300x200" src="http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-300x200.jpg" width="300" height="200" /> 右側いるのほ良い気分です。[/caption]
+
+
 
 そして今後は<strong>右寄せ</strong>画像に移りたいと思います。また今度も、画像の上、下、左に十分な余白があると思います。ほら、あっちにいる彼を見てください ! 右側の方にいるあの画像 ! 左寄せ画像がなんて言うかなんてどうでもいいんです、美しい配置ですよ。他の人の意見なんて気にしないでいいんです
 
+
+
 そしてこのへんでテキストが右寄せの画像の下に回り込んで、ちょうど良い具合に収まっているのが分かると思います。ひきつづきちょうど良い具合にスペースが残されていて、すべてがきれいに表示されているべきです。そうです…。右画像に回り込むのって気持ちいいですね。
+
+
 
 それでは、これで終わりです。画像配置のテスト、お疲れ様でした !]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9963,158 +10131,311 @@ Quisque interdum felis a tellus. Aliquam sed diam ac velit aliquam rutrum. Morbi
 		<guid isPermaLink="false">http://wptest.io/demo/?page_id=1083</guid>
 		<description></description>
 		<content:encoded><![CDATA[<strong>見出し</strong>
+
 <h1>見出し壱</h1>
+
 <h2>見出し弐</h2>
+
 <h3>見出し参</h3>
+
 <h4>見出し四</h4>
+
 <h5>見出し五</h5>
+
 <h6>見出し六</h6>
+
 <h2>引用 (Blockquote)</h2>
+
 一行の引用:
+
 <blockquote>貪欲であれ、愚かであれ</blockquote>
+
 引用元の参照のある複数行の引用:
+
 <blockquote>集中という意味は集中しなくてはいけないことにイエスということだと、人は言います。しかし、それはまったく違います。そうではなく、そこにある何百ものいいアイディアにノーということなのです。慎重に選択しなくてはいけません。実際、私は成し遂げたことと同じように成し遂げられなかったことにも満足しています。革新というのは1000ものことにノーということなのです。
+
 <cite>スティーブ・ジョブズ - 1997年 Apple 世界的開発者会議</cite></blockquote>
+
 <h2>テーブル</h2>
+
 <table>
+
 <tbody>
+
 <tr>
+
 <th>従業員</th>
+
 <th class="views">給与</th>
+
 <th></th>
+
 </tr>
+
 <tr class="odd">
+
 <td><a href="http://example.com/">ジェーン</a></td>
+
 <td>$￥1</td>
+
 <td>スティーブ・ジョブズの必要な給与。</td>
+
 </tr>
+
 <tr class="even">
+
 <td><a href="http://example.com">ジョン</a></td>
+
 <td>￥10万</td>
+
 <td>ブログのすべて。</td>
+
 </tr>
+
 <tr class="odd">
+
 <td><a href="http://example.com/">ジェーン</a></td>
+
 <td>￥1億</td>
+
 <td>百聞は一見にしかず。だよね ? なのでトムは1000倍。</td>
+
 </tr>
+
 <tr class="even">
+
 <td><a href="http://example.com/">ジェーン</a></td>
+
 <td>￥1000億</td>
+
 <td>これみたいな髪?! もういいよね…</td>
+
 </tr>
+
 </tbody>
+
 </table>
+
 <h2>定義リスト</h2>
+
 <dl><dt>定義リストタイトル</dt><dd>これは定義リストです。</dd><dt>スタートアップ</dt><dd>スタートアップ会社もしくはスタートアップとは、反復可能でスケーラブルなビジネスモデルを追い求める会社もしくは一時的な組織です。</dd><dt>#dowork</dt><dd>ロブ・ダイデクと彼の個人的なボディーガードのクリストファー"ビッグ・ブラック"ボイキンスが作った言い回しで、"仕事しよう" が自己動機付けとして、友達を動機付けるために機能する。</dd><dt>ライブでやろう</dt><dd>ビル・オライリーが <a title="We'll Do It Live" href="https://www.youtube.com/watch?v=O_HyZ5aW76c">説明</a> してもらいましょう。</dd></dl>
+
 <h2>非順序リスト（ネスト化）</h2>
+
 <ul>
+
 	<li>リストアイテム1
+
 <ul>
+
 	<li>リストアイテム1
+
 <ul>
+
 	<li>リストアイテム1</li>
+
 	<li>リストアイテム2</li>
+
 	<li>リストアイテム3</li>
+
 	<li>リストアイテム4</li>
+
 </ul>
+
 </li>
+
 	<li>リストアイテム2</li>
+
 	<li>リストアイテム3</li>
+
 	<li>リストアイテム4</li>
+
 </ul>
+
 </li>
+
 	<li>リストアイテム2</li>
+
 	<li>リストアイテム3</li>
+
 	<li>リストアイテム4</li>
+
 </ul>
+
 <h2>順序リスト</h2>
+
 <ol>
+
 	<li>リストアイテム1
+
 <ol>
+
 	<li>リストアイテム1
+
 <ol>
+
 	<li>リストアイテム1</li>
+
 	<li>リストアイテム2</li>
+
 	<li>リストアイテム3</li>
+
 	<li>リストアイテム4</li>
+
 </ol>
+
 </li>
+
 	<li>リストアイテム2</li>
+
 	<li>リストアイテム3</li>
+
 	<li>リストアイテム4</li>
+
 </ol>
+
 </li>
+
 	<li>リストアイテム2</li>
+
 	<li>リストアイテム3</li>
+
 	<li>リストアイテム4</li>
+
 </ol>
+
 <h2>HTML 要素タグテスト</h2>
+
 他の HTML タグは <a href="http://ja.support.wordpress.com/code/" rel="nofollow">FAQ</a> をご覧ください。
 
+
+
 <strong>住所タグ</strong>
+
 以下は住所の例です。<code>&lt;address&gt;</code> タグを使用しています:
 
+
+
 <address>〒100-0000
+
 東京都千代田区1-1-1
+
 日本</address><strong>anchor タグ (リンク)</strong>
+
 これは <a href="http://example.com/" rel="nofollow"><code>&lt;anchor&gt;</code></a> (もしくはリンクとも呼ばれます) の例です。
 
+
+
 <strong>abbr タグ</strong>
+
 この <abbr title="abbreviation">abbr</abbr> は文章の中にある &lt;abbr&gt; タグの例です。
 
+
+
 <strong>Acronym タグ (<em>HTML5 では非推奨</em>)</strong>
+
 これは <code>&lt;acronym&gt;</code> タグを使用した <acronym title="three-letter acronym">TLA</acronym> です。
 
+
+
 <strong>Big タグ(<em>HTML5 では非推奨</em>)</strong>
+
 このテストは<big>大きな</big>文字を表す <code>&lt;big&gt;</code> タグの例ですが、このタグは HTML5 ではサポートされていません。
 
+
+
 <strong>Cite タグ</strong>
+
 "Code is poetry." --<cite>WordPress</cite>
 
+
+
 <strong>Code タグ</strong>
+
 <code>&lt;code&gt;</code> タグはこのように使います: <code>word-wrap: break-word;</code>
 
+
+
 <strong>Delete タグ</strong>
+
 <code>&lt;del&gt;</code> タグは<del>打ち消し線</del>などで表現されますが、このタグは HTML5 ではサポートされていません (代わりに <code>&lt;strike&gt;</code> を使ってください)。
 
+
+
 <strong>Emphasize タグ</strong>
+
 <code>&lt;em&gt;</code> タグは<em>文章の強調</em>に使われます。欧文では斜体になっていることがよくあります。
 
+
+
 <strong>Insert タグ</strong>
+
 <code>&lt;ins&gt;</code> タグは<ins>挿入されたコンテンツ</ins>を意味します。
 
+
+
 <strong>Keyboard タグ</strong>
+
 このあまり知られていない <code>&lt;kbd&gt;</code> タグは <kbd>Ctrl</kbd> のようにキーボードテキストをエミュレートします。通常、<code>&lt;code&gt;</code> タグと同じようにスタイリングされます。
 
+
+
 <strong>Preformatted タグ</strong>
+
 <code>&lt;pre&gt;</code> タグは複数行のコードのスタイリングに使います。
+
 <pre>.post-title {
+
 	margin: 0 0 5px;
+
 	font-weight: bold;
+
 	font-size: 38px;
+
 	line-height: 1.2;
+
 	and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
+
 }</pre>
+
 <strong>Quote タグ</strong>
+
 <q>デベロッパーズ、デベロッパーズ, デベロッパーズ...</q> --スティーブ・バルマー
 
+
+
 <strong>Strike タグ (<em>HTML5 では非推奨</em>)</strong>
+
 このタグは打ち消し線を表しています。
 
+
+
 <strong>Strong タグ</strong>
+
 このタグは<strong>太字</strong>テキストを表しています。
 
+
+
 <strong>Subscript タグ</strong>
+
 Subscript タグ <code>&lt;sub&gt;</code> を使うと H<sub>2</sub>O のような表示の際に「2」が下付きになります。
 
+
+
 <strong>Superscript タグ</strong>
+
 Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> のような表示の際に「2」が上付きになります。
 
+
+
 <strong>Teletype タグ (<em>HTML5 では非推奨</em>)</strong>
+
 <code>&lt;tt&gt;</code> はあまり使われないタグですが、<tt>テレタイプテキスト</tt> として通常 <code>&lt;code&gt;</code> タグのようにスタイル
 
+
+
 <strong>Variable タグ</strong>
+
 変数や引数を表す <var>variables</var> タグです。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1134</wp:post_id>
@@ -10300,6 +10621,8 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 		<description></description>
 		<content:encoded><![CDATA[この投稿は将来公開される予約投稿です。
 
+
+
 それまではテーマ上で表示されるべきではありません。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1153</wp:post_id>
@@ -10353,6 +10676,8 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 		<guid isPermaLink="false">http://wptest.io/demo/?p=922</guid>
 		<description></description>
 		<content:encoded><![CDATA[この投稿は下書きなのでまだ公開されていません。
+
+
 
 この投稿はテーマによって表示されるべきではありません。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -10551,45 +10876,87 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 		<description></description>
 		<content:encoded><![CDATA[伏見桃山の城地を繞めぐっている淀川の水は、そのまま長流数里、浪華江なにわえの大坂城の石垣へも寄せていた。――で、ここら京都あたりの政治的なうごきは、微妙に大坂のほうへすぐ響き、また大坂方の一将一卒の言論も、おそろしく敏感に伏見の城へ聞えて来るらしい。
 
+
+
 <!--more-->
+
 今――
+
 摂津、山城の二ヵ国を貫くこの大河を中心にして、日本の文化は大きな激変に遭あっている。太閤たいこうの亡き後を、さながら落日の美しさのように、よけいに権威を誇示して見せている秀頼や淀君の大坂城と、関ヶ原の役から後、拍車をかけて、この伏見の城にあり、自ら戦後の経綸けいりんと大策に当たり、豊臣とよとみ文化の旧態を、根本から革あらためにかかっている徳川家康の勢威と――その二つの文化の潮流が、たとえば、河の中を往来している船にも、陸おかをゆく男女の風俗にも、流行歌はやりうたにも、職をさがしている牢人の顔つきにも、混色こんしょくしているのだった。
+
+
 
 <span style="line-height: 1.5;">「どうなるんだ？」</span>
 
+
+
 と、人々はすぐそういう話題に興味を持つ。
+
+
 
 <span style="line-height: 1.5;">「どうって、何が？」</span>
 
+
+
 <span style="line-height: 1.5;">「世の中がよ」</span>
+
+
 
 <span style="line-height: 1.5;">「変るだろう。こいつあ、はっきりしたことだ。変らない世の中なんて、そもそも、藤原道長以来、一日だってあった例ためしはねえ。――源家平家の弓取が、政権を執とるようになってからは猶なおさらそいつが早くなった」</span>
 
+
+
 <span style="line-height: 1.5;">「つまり、また戦いくさか」</span>
+
+
 
 <span style="line-height: 1.5;">「こうなっちまったものを、今さら、戦のない方へ、世の中を向け直そうとしても、力に及ぶまい」</span>
 
+
+
 <span style="line-height: 1.5;">「大坂でも、諸国の牢人衆へ、手をまわしているらしいな」</span>
+
+
 
 <span style="line-height: 1.5;">「……だろうな、大きな声ではいえねえが、徳川様だって、南蛮船から銃や弾薬たまぐすりをしこたま買いこんでいるというし」</span>
 
+
+
 <span style="line-height: 1.5;">「それでいて――大御所様のお孫の千姫を、秀頼公の嫁君にやっているのはどういうものだろ？」</span>
+
+
 
 「天下様のなさることは、みな聖賢の道だろうから、下人げにんにはわからねえさ」
 
+
+
 石は焼けていた。河の水は沸いている。もう秋は立っているのだが、暑さはこの夏の土用にも勝まさって酷きびしい。
+
+
 
 <span style="line-height: 1.5;">淀の京橋口の柳はだらりと白っぽく萎なえている。気の狂ったような油蝉あぶらぜみが一匹、川を横ぎって町屋の中へ突き当ってゆく。その町も晩の灯の色はどこへか失って、灰を浴びたような板屋根が乾き上がっているのだった。橋の上下かみしもには、無数の石船がつながれていて、河の中も石、陸おかも石、どこを見まわしても石だらけなのである。</span>
 
+
+
 <span style="line-height: 1.5;">その石も皆、畳二枚以上の巨おおきなものが多かった。焼けきった石の上に、石曳いしひきの労働者たちは、無感覚に寝そべったり腰かけたり仰向けに転がったりしている。ちょうど今が、昼飯刻どきでその後の半刻休みを楽しんでいるのであろう。そこらに材木をおろしている牛車の牛も涎よだれをたらして、満身に蠅はえを集めてじっとしている。</span>
+
+
 
 <span style="line-height: 1.5;">伏見城の修築だった。</span>
 
+
+
 <span style="line-height: 1.5;">いつのまにか、世の人々に「大御所」と呼ばしめている家康がここに滞在しているからではない。城普請しろぶしんは、徳川の戦後政策の一つだった。</span>
+
+
 
 <span style="line-height: 1.5;">譜代大名ふだいだいみょうの心を弛緩しかんさせないために。――また、外様とざま大名の蓄力を経済的にそれへ消耗させてしまうために。</span>
 
+
+
 <span style="line-height: 1.5;">もう一つの理由は、一般民に、とにかく徳川政策を謳歌おうかさせるためには、土木の工を各地に起して、下層民へ金をこぼしてやるに限る。</span>
+
+
 
 <span style="line-height: 1.5;">今、城普請は全国的に着手されていた。その大規模なものだけでも、江戸城、名古屋城、駿府城、越後高田城、彦根城、亀山城、大津城――等々々。</span>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -10671,27 +11038,50 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 		<description></description>
 		<content:encoded><![CDATA[[gallery]
 
+
+
 <!--nextpage-->
+
+
 
 このページは、テーマでのギャラリー [gallery] の扱いをテストするものです。
 
+
+
 <code>columns</code> パラメータ(カラム: 1から9まで)を含むショートコード。テーマはデフォルトの設定(3カラム)をサポートすることのみが必須です。そのため、このページはまったく任意です。
+
 [gallery columns="1"]
+
 <h2>2カラム</h2>
+
 [gallery columns="2"]
+
 <h2>3カラム</h2>
+
 [gallery columns="3"]
+
 <h2>4カラム</h2>
+
 [gallery columns="4"]
+
 <h2>5カラム</h2>
+
 [gallery columns="5"]
+
 <h2>6カラム</h2>
+
 [gallery columns="6"]
+
 <h2>7カラム</h2>
+
 [gallery columns="7"]
+
 <h2>8カラム</h2>
+
 [gallery columns="8"]
+
 <h2>9カラム</h2>
+
 [gallery columns="9"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>555</wp:post_id>
@@ -10815,47 +11205,91 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 		<description></description>
 		<content:encoded><![CDATA[ロパーヒン「やっと汽車が着いた、やれやれ。何時だね？」
 
+
+
 ドゥニャーシャ「まもなく二時。（蝋燭を吹き消す）もう明るいですわ。」
+
+
 
 ロパーヒン「いったいどのくらい遅れたんだね、汽車は？　まあ二時間はまちがいあるまい。（あくび、のび）おれもいいところがあるよ、とんだドジを踏んじまった！　停車場まで出迎えるつもりで、わざわざここへ来ていながら、とたんに寝すごしちまうなんて……。椅子いすにかけたなりぐっすりさ。いまいましい。……せめてお前さんでも起してくれりゃいいのに。」
 
+
+
 ドゥニャーシャ「お出かけになったとばかり思ってました。（耳をすます）おや、もういらしたらしい。」
+
+
 
 ロパーヒン「（耳をすます）ちがう。……手荷物を受けとったり、何やかやあるからな。……（間）ラネーフスカヤの奥さんは、外国で五年も暮してこられたんだから、さぞ変られたことだろうなあ。……まったくいい方かただよ。きさくで、さばさばしててね。忘れもしないが、おれがまだ十五ぐらいのガキだった頃ころ、おれの死んだ親父おやじが――親父はその頃、この村に小さな店を出していたんだが――おれの面つらをげんこで殴りつけて、鼻血を出したことがある。……その時ちょうど、どうしたわけだか二人でこの屋敷へやって来てね、おまけに親父は一杯きげんだったのさ。すると奥さんは、つい昨日のことのように覚えているが、まだ若くって、こう細っそりした人だったがね、そのおれを手洗いのところへ連れて行ってくれた。それが、ちょうどこの部屋――この子供部屋だったのさ。「泣くんじゃないよ、ちっちゃなお百姓さん」と言ってね、「婚礼までには直りますよ（訳注「怪我をした人に言う慰めの慣用句）。……」（間）ちっちゃなお百姓か。……いかにもおれの親父はどん百姓だったが、おれはというと、この通り白いチョッキを着て、茶色い短靴たんぐつなんかはいている。雑魚ざこのととまじりさ。……そりゃ金はある、金ならどっさりあるが、胸に手をあてて考えてみりゃ、やっぱりどん百姓にちがいはないさ。……（本をぱらぱらめくって）さっきもこの本を読んでいたんだが、さっぱりわからん。読んでるうちに寝ちまった。（間）」
 
+
+
 ドゥニャーシャ「犬はみんな、夜っぴて寝ませんでしたわ。嗅かぎつけたんですわね、ご主人たちのお帰りを。」
+
+
 
 ロパーヒン「おや、ドゥニャーシャ、どうしてそんなに……」
 
+
+
 ドゥニャーシャ「手がぶるぶるしますの。あたし気が遠くなって、倒れそうだわ。」
+
+
 
 ロパーヒン「どうもお前さんは柔弱でいかんな、ドゥニャーシャ。みなりもお嬢さんみたいだし、髪の格好かっこうだってそうだ。駄目だめだよ、それじゃ。身のほどを知らなくちゃ。」
 
+
+
 エピホードフ「（花束をひろう）これを庭男がとどけてよこしました。食堂に挿さすようにってね。（ドゥニャーシャに花束をわたす）」
+
+
 
 ロパーヒン「ついでにクワスをおれに持ってきとくれ。」
 
+
+
 ドゥニャーシャ「かしこまりました。（退場）」
+
+
 
 エピホードフ「今ちょうど明け方の冷えで、零下三度の寒さですが、桜の花は満開ですよ。どうも感服しませんなあ、わが国の気候は。（ため息）どうもねえ。わが国の気候は、汐しおどきにぴたりとは行きませんですな。ところでロパーヒンさん、事のついでに一言申し添えますが、じつは一昨日いっさくじつ、長靴を新調したところが、いや正真正銘のはなし、そいつがやけにギュウギュウ鳴りましてな、どうもこうもなりません。何を塗ったもんでしょうかな？」
 
+
+
 ロパーヒン「やめてくれ。もうたくさんだ。」
+
+
 
 エピホードフ「毎日なにかしら、わたしには不仕合せが起るんです。しかし愚痴は言いません。馴なれっこになって、むしろ微笑を浮べているくらいですよ。」
 
+
+
 <span style="line-height: 1.5;">エピホードフ「どれ行くとするか。（椅子にぶつかって倒す）また、これだ。……（得意げな調子で）ね、いかがです、口幅ったいことを言うようですが、なんたる回めぐり合せでしょう、とにかくね。……こうなるともう、天晴あっぱれと言いたいくらいですよ！（退場）」</span>
+
+
 
 ドゥニャーシャ「じつはね、ロパーヒンさん、あのエピホードフがあたしに、結婚を申しこみましたの。」
 
+
+
 ロパーヒン「ほほう！」
+
+
 
 ドゥニャーシャ「どうしたらいいのか、困ってしまいますわ。……おとなしい人だけれど、ただ時どき、何か話をしだすと、てんでわけがわからない。聞いていれば面白おもしろいし、情じょうもこもっているんだけれど、ただどうも、わけがわからなくってねえ。あたし、あの人がまんざら厭いやじゃありませんし、あの人ときたら、あたしに夢中なんですの。不仕合せな人で、毎日なにかしら起るんです。ここじゃあの人のこと、「二十二の不仕合せ」って、からかうんですよ。……」
 
+
+
 ロパーヒン「（きき耳を立てて）さあ、こんどこそお着きらしいぞ……」
+
+
 
 ドゥニャーシャ「お着き！　どうしたんでしょう、あたし……からだじゅう、つめたくなったわ。」
 
+
+
 ロパーヒン「ほんとにお着きだ。出迎えに行こう。おれの顔がおわかりかなあ？　なにせ五年ぶりだから。」
+
+
 
 ドゥニャーシャ「（わくわくして）あたし倒れそうだわ。……ああ、倒れそうだ！」]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -10942,6 +11376,7 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=568</guid>
 		<description></description>
 		<content:encoded><![CDATA[[caption id="attachment_612" align="aligncenter" width="640" caption="樹脂を含むススキノキの殻のかたまり。西オーストラリア、クラークソン。よく燃える。"]<a href="http://wpthemetestdata.files.wordpress.com/2012/06/dsc20040724_152504_532.jpg"><img src="http://wpthemetestdata.files.wordpress.com/2012/06/dsc20040724_152504_532.jpg" alt="樹脂を含むススキノキの殻のかたまり" title="dsc20040724_152504_532" width="640" height="480" class="size-full wp-image-612" /></a>[/caption]
+
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>568</wp:post_id>
@@ -11078,6 +11513,8 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 		<description></description>
 		<content:encoded><![CDATA[http://wordpress.tv/2009/03/16/anatomy-of-a-wordpress-theme-exploring-the-files-behind-your-theme/
 
+
+
 <a href="http://codex.wordpress.org/Embeds" target="_blank">Codexの手順</a>に従い投稿。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>582</wp:post_id>
@@ -11128,9 +11565,15 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 		<description></description>
 		<content:encoded><![CDATA[リンク:
 
+
+
 <a href="http://wpthemetestdata.files.wordpress.com/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues.mp3">セントルイス・ブルース</a>
 
+
+
 オーディオ ショートコード:
+
+
 
 [audio http://wpthemetestdata.files.wordpress.com/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues.mp3]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -11154,8 +11597,11 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 		<wp:postmeta>
 			<wp:meta_key>enclosure</wp:meta_key>
 			<wp:meta_value><![CDATA[http://wpthemetestdata.files.wordpress.com/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues.mp3
+
 3043247
+
 audio/mpeg
+
 ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -11165,8 +11611,11 @@ audio/mpeg
 		<wp:postmeta>
 			<wp:meta_key>enclosure</wp:meta_key>
 			<wp:meta_value><![CDATA[http://wpthemetestdata.files.wordpress.com/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues.mp3
+
 3043247
+
 audio/mpeg
+
 ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -11187,7 +11636,11 @@ audio/mpeg
 		<description></description>
 		<content:encoded><![CDATA[[wpvideo tFnqC9XQ w=680]
 
+
+
 動画投稿フォーマットが使われた場合特にそうですが、<a title="WordPress プラグイン VideoPress" href="http://videopress.com/" target="_blank">VideoPress</a> 動画には独特のスタイリングの問題が発生することがあります。
+
+
 
 <a title="WordPress プラグイン Jetpack" href="http://jetpack.me/" target="_blank">Jetpack</a> または <a title="Slim Jetpack" href="http://wordpress.org/extend/plugins/slimjetpack/" target="_blank">Slim Jetpack</a> プラグインをインストールして、ショートコードを表示可能な動画にする必要があります。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -11297,9 +11750,15 @@ audio/mpeg
 		<description></description>
 		<content:encoded><![CDATA[これは Jetpack のタイルギャラリーのテストです。
 
+
+
 <a title="Jetpack for WordPress" href="http://wordpress.org/plugins/jetpack/" target="_blank">Jetpack</a> をインストールして、テストしてください。
 
+
+
 [gallery type="rectangular" columns="4" ids="755,757,758,760,766,763" orderby="rand"]
+
+
 
 これは各々の配置がうまくいくかの確認のための、タイルギャラリーの後にある文章です。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -11563,6 +12022,8 @@ audio/mpeg
 		<description></description>
 		<content:encoded><![CDATA[<dl class="wp-caption aligncenter" id="attachment_612" style="width:650px;"><dt class="wp-caption-dt"></dt></dl><img class="alignnone size-full wp-image-967" alt="ユニコーンの壁紙" src="http://wpthemetestdata.files.wordpress.com/2012/12/unicorn-wallpaper.jpg" width="1600" height="1200" />
 
+
+
 この壁紙がほんとに大好きです。<a title="Jane" href="http://example.com/" target="_blank">ジェーン</a>の優しさを思い出す……。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1158</wp:post_id>
@@ -11655,7 +12116,11 @@ audio/mpeg
 		<description></description>
 		<content:encoded><![CDATA[http://www.youtube.com/watch?v=kmfeKUNDDYs
 
+
+
 ルイス・アームストロングの「Hello Dolly」ライブパフォーマンス。
+
+
 
 動画埋め込みについて詳しくは<a title="oEmbed" href="http://wpdocs.sourceforge.jp/Embeds" target="_blank">WordPress Codex 日本語版の該当ページ</a>をご覧ください。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -11927,6 +12392,8 @@ audio/mpeg
 		<description></description>
 		<content:encoded><![CDATA[タイトルのない投稿。
 
+
+
 しかし、この投稿へのリンクは表示されなければならない。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1169</wp:post_id>
@@ -12082,16 +12549,27 @@ audio/mpeg
 		<guid isPermaLink="false">http://wptest.io/demo/?p=877</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>タイトルが長い英単語の時、コンテンツエリアをはみ出すべきではない。</h2>
+
 ラテン文字45字で書かれるこの単語は、辞書に記載されている中では最も長い実用的な英単語とされている。
 
+
+
 チェックすべき項目:
+
 <ul>
+
 	<li>タイトル・コンテンツ・コメント内の改行なしテキストが、レイアウトや機能に悪影響を及ぼしてはなりません。</li>
+
 	<li>ブラウザのウインドウやタブのタイトルをチェックしてください。</li>
+
 	<li>プラグインやウィジェットの開発者の方は、このテキストにより何かが崩れたりしていないかチェックしてください。</li>
+
 </ul>
+
 改行なしテキストにうまく対応するために、以下の CSS プロパティが役立つでしょう。
+
 <pre>-ms-word-wrap: break-word;
+
 word-wrap: break-word;</pre>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1175</wp:post_id>
@@ -12174,6 +12652,8 @@ word-wrap: break-word;</pre>]]></content:encoded>
 		<guid isPermaLink="false">http://wptest.io/demo/?p=1027</guid>
 		<description></description>
 		<content:encoded><![CDATA[https://twitter.com/nacin/status/319508408669708289
+
+
 
 この投稿は、WordPressの<a title="Twitter Embeds" href="http://en.support.wordpress.com/twitter/twitter-embeds/" target="_blank">Twitterの埋め込み</a> 機能のテストです。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -12405,9 +12885,15 @@ word-wrap: break-word;</pre>]]></content:encoded>
 		<description></description>
 		<content:encoded><![CDATA[このコンテンツは <a title="The More Tag" href="http://en.support.wordpress.com/splitting-content/more-tag/" target="_blank">more</a> タグです。
 
+
+
 この文のすぐ後は、「続きを読む」ボタンが表示されます。
 
+
+
 <!--more-->
+
+
 
 そして、これは more タグの後のコンテンツです。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -12474,7 +12960,11 @@ word-wrap: break-word;</pre>]]></content:encoded>
 		<description></description>
 		<content:encoded><![CDATA[この投稿は、テーマが<a title="Post Thumbnails" href="http://wpdocs.sourceforge.jp/Post_Thumbnails" target="_blank">対応している</a>場合、<a title="アイキャッチ画像" href="http://en.support.wordpress.com/featured-images/#setting-a-featured-image" target="_blank">アイキャッチ画像</a>を表示すべきです。
 
+
+
 正方形ではない画像の場合、特別なスタイリング上の問題が発生することがあります。
+
+
 
 これは横向きのアイキャッチ画像テスト向けのの投稿です。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -12591,7 +13081,11 @@ word-wrap: break-word;</pre>]]></content:encoded>
 		<description></description>
 		<content:encoded><![CDATA[この投稿は、テーマが<a title="Post Thumbnails" href="http://wpdocs.sourceforge.jp/Post_Thumbnails" target="_blank">対応している</a>場合、<a title="アイキャッチ画像" href="http://en.support.wordpress.com/featured-images/#setting-a-featured-image" target="_blank">アイキャッチ画像</a>を表示すべきです。
 
+
+
 正方形ではない画像の場合、特別なスタイリング上の問題が発生することがあります。
+
+
 
 これは縦向きのアイキャッチ画像テスト向けのの投稿です。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -12736,14 +13230,24 @@ word-wrap: break-word;</pre>]]></content:encoded>
 		<description></description>
 		<content:encoded><![CDATA[この記事では、以下の場合のコメントをテストしています。
 
+
+
 <ul>
+
 	<li>10レベルの深さのコメント</li>
+
 	<li>コメントをページ送り (設定の仕方 <em><strong>ダッシュボード &gt; 設定 &gt; ディスカッション &gt; 1ページあたり</strong></em><strong>5</strong></em>件のコメントを含む複数ページに分割し、<em><strong>最初</strong></em>のページをデフォルトで表示する</li>
+
 	<li>マークアップを使ったコメント / フォーマット例</li>
+
 	<li>画像のあるコメント</li>
+
 	<li>動画のあるコメント</li>
+
 	<li>作者によるコメント</li>
+
 	<li>グラバターがある場合とグラバターが無い場合の初期設定の画像</li>
+
 </ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1148</wp:post_id>
@@ -13705,11 +14209,18 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 		<description></description>
 		<content:encoded><![CDATA[この投稿には多数のピンバックとトラックバックがつけられています。
 
+
+
 一覧表示する方法はいくつかあります。
+
 <ol>
+
 	<li>コメントの上にすべて表示</li>
+
 	<li>コメントの下にすべて表示</li>
+
 	<li>通常のコメントの流れに沿って表示</li>
+
 </ol>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1149</wp:post_id>
@@ -13853,6 +14364,8 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/2007/09/04/no-comments/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<span style="line-height: 1.714285714; font-size: 1rem;">この投稿はコメント、ピンバック、トラックバックが不可の設定になっています。</span>
+
+
 
 <span style="line-height: 1.714285714; font-size: 1rem;">コメント欄は表示されませんが、ピンバックとトラックバックは表示されます。</span>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -14050,102 +14563,200 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 		<description></description>
 		<content:encoded><![CDATA[この投稿は複数のページに分かれていて、各種レイアウト、画像、HTMLタグその他を含みます。
 
+
+
 <h2>火の巻</h2>
+
 <h3>西瓜</h3>
+
 <h4>一</h4>
+
 伏見桃山の城地を繞めぐっている淀川の水は、そのまま長流数里、浪華江なにわえの大坂城の石垣へも寄せていた。――で、ここら京都あたりの政治的なうごきは、微妙に大坂のほうへすぐ響き、また大坂方の一将一卒の言論も、おそろしく敏感に伏見の城へ聞えて来るらしい。
+
 今――
+
 摂津、山城の二ヵ国を貫くこの大河を中心にして、日本の文化は大きな激変に遭あっている。太閤たいこうの亡き後を、さながら落日の美しさのように、よけいに権威を誇示して見せている秀頼や淀君の大坂城と、関ヶ原の役から後、拍車をかけて、この伏見の城にあり、自ら戦後の経綸けいりんと大策に当たり、豊臣とよとみ文化の旧態を、根本から革あらためにかかっている徳川家康の勢威と――その二つの文化の潮流が、たとえば、河の中を往来している船にも、陸おかをゆく男女の風俗にも、流行歌はやりうたにも、職をさがしている牢人の顔つきにも、混色こんしょくしているのだった。
+
 「どうなるんだ？」
+
 と、人々はすぐそういう話題に興味を持つ。
+
 「どうって、何が？」
+
 「世の中がよ」
+
 「変るだろう。こいつあ、はっきりしたことだ。変らない世の中なんて、そもそも、藤原道長以来、一日だってあった例ためしはねえ。――源家平家の弓取が、政権を執とるようになってからは猶なおさらそいつが早くなった」
+
 「つまり、また戦いくさか」
+
 「こうなっちまったものを、今さら、戦のない方へ、世の中を向け直そうとしても、力に及ぶまい」
+
 「大坂でも、諸国の牢人衆へ、手をまわしているらしいな」
+
 「……だろうな、大きな声ではいえねえが、徳川様だって、南蛮船から銃や弾薬たまぐすりをしこたま買いこんでいるというし」
+
 「それでいて――大御所様のお孫の千姫を、秀頼公の嫁君にやっているのはどういうものだろ？」
+
 「天下様のなさることは、みな聖賢の道だろうから、下人げにんにはわからねえさ」
+
 石は焼けていた。河の水は沸いている。もう秋は立っているのだが、暑さはこの夏の土用にも勝まさって酷きびしい。
+
 淀の京橋口の柳はだらりと白っぽく萎なえている。気の狂ったような油蝉あぶらぜみが一匹、川を横ぎって町屋の中へ突き当ってゆく。その町も晩の灯の色はどこへか失って、灰を浴びたような板屋根が乾き上がっているのだった。橋の上下かみしもには、無数の石船がつながれていて、河の中も石、陸おかも石、どこを見まわしても石だらけなのである。
+
 その石も皆、畳二枚以上の巨おおきなものが多かった。焼けきった石の上に、石曳いしひきの労働者たちは、無感覚に寝そべったり腰かけたり仰向けに転がったりしている。ちょうど今が、昼飯刻どきでその後の半刻休みを楽しんでいるのであろう。そこらに材木をおろしている牛車の牛も涎よだれをたらして、満身に蠅はえを集めてじっとしている。
+
 伏見城の修築だった。
+
 いつのまにか、世の人々に「大御所」と呼ばしめている家康がここに滞在しているからではない。城普請しろぶしんは、徳川の戦後政策の一つだった。
+
 譜代大名ふだいだいみょうの心を弛緩しかんさせないために。――また、外様とざま大名の蓄力を経済的にそれへ消耗させてしまうために。
+
 もう一つの理由は、一般民に、とにかく徳川政策を謳歌おうかさせるためには、土木の工を各地に起して、下層民へ金をこぼしてやるに限る。
+
 今、城普請は全国的に着手されていた。その大規模なものだけでも、江戸城、名古屋城、駿府城、越後高田城、彦根城、亀山城、大津城――等々々。
+
 <!--nextpage-->
+
+
 
 <h4>二</h4>
 
+
+
 この伏見城の土木へ日稼ひかせぎに来る労働者の数だけでも、千人に近かった。その多くは、新曲輪しんぐるわの石垣工事にかかっているのである。伏見町はそのせいで、急に、売女ばいたと馬蠅うまばえと物売りが殖ふえ、
+
 「大御所様景気や」
+
 　と、徳川政策を謳歌した。
+
 　その上、
+
 「もし戦争になれば」
+
 　と、町人たちは、機と利を察して、思惑に熱していた。社会事象のことごとくを、そろばん珠にのせて、
+
 「儲もうけるのはここだ」
+
 　無言のうちに、商品は活溌にうごいた。その大部分が、軍需品であることはいうまでもない。
+
 　もう庶民の頭には、太閤時代の文化をなつかしむよりも、大御所政策の目さきのいい方へ心酔しかけていた。司権者は誰でもいいのである。自分たちの小さな慾望のうちで、生活の満足ができればそれで苦情がないのだ。
+
 　家康は、そういう愚民心理を、裏切らなかった。子どもへ菓子を撒まいてやるより易々いいたる問題であったろう。それも徳川家の金でするのではない。栄養過多な外様大名に課役させて、程よく、彼らの力をも減殺させながら効果を挙げてゆく。
+
 　そうした都市政策の一方、大御所政治は、農村に対しても、従来の放漫な切り取り徴発や、国持くにもちまかせを許さなかった。徳川式の封建政策をぽつぽつ布しきはじめていた。
+
 　それには、
+
 （民をして政治を知らしむなかれ、政治にたよらせよ）
+
 　という主義から、
+
 （百姓は、飢えぬほどにして、気ままもさせぬが、百姓への慈悲なり）
+
 　と、施政の方策をさずけて、徳川中心の永遠の計にかかっていた。
+
 　それはやがて、大名にも、町人にも、同じようにかかって来て、孫子の代まで、身うごきのならない手かせ足かせとなる封建統制の前提であったが、そういう百年先のことまでは、誰も考えなかった。いや、城普請しろぶしんの石揚げや石曳きに稼ぎに来ている労働者などは、明日あしたのことさえ、思っていないのである。
+
 　昼飯をたべれば、
+
 「はやく晩になれ」
+
 　と祈るのが、いっぱいな慾念だった。
+
 　それでも時節がら、
+
 「戦争になるか」
+
 「なれば何日いつ頃？」
+
 　などと、時局談は、いっぱし熾さかんだったが、その心理には、
+
 「戦争になったって、こちとらは、これ以上、悪くなりようがねえ」
+
 　という気持があるからで、ほんとにこの時局を憂うれいたり、平和の岐点をじっと案じて、どの方へ曲がるのが国と民のためだろうなどと考えているのでは決してないのである。
+
 「――西瓜すいかいらんか」
+
 　いつも昼休みに来る百姓娘が、西瓜の籠を抱えて触れて来た。石の蔭で、銭ぜにの裏表を伏せて、博戯ばくちをしていた人足の群れで、二つ売れた。
+
 「こちらの衆は、西瓜どうや。西瓜買うてくれなはらんか」
+
 　と、群れから群れへ唄ってくると、
+
 「べら棒め、銭がねえや」
+
 「ただなら食ってやる」
+
 　そんな声ばかりだった。
+
 　すると、たった一人ぽち、青白い顔をして、石と石のあいだに倚よりかかって膝を抱えていた石曳きの若い労働者が、
+
 「西瓜か」
+
 　と、力のない眼をあげた。
+
 　痩せて――眼がくぼんで――日に焦やけて、すっかり変ってしまったが、その石曳いしひきは、本位田又八ほんいでんまたはちだった。
+
+
 
 <!--nextpage-->
 
+
+
 <h4>三</h4>
 
+
+
 　又八は、土のついた青銭を、掌のうえでかぞえた。西瓜売りにわたして一個の西瓜と交換した。それを抱え込むと、またしばらく、石に倚りかかったまま、ぐんなり俯向うつむいているのである。
+
 「げ……げ……」
+
 　突然、片手をつくと、草の中へ牛みたいに唾液だえきを吐いた。西瓜は膝から転がり出している。それを取ろうとする気力もないし、食べようという気で買ったわけでもないらしいのだ。
+
 「…………」
+
 　にぶい眼で、西瓜をながめていた。眼は虚無の玉みたいに何の意力も希望もたたえていない。呼吸いきをすると肩ばかりうごいた。
+
 「……畜生」
+
 　呪う者ばかりが頭脳あたまへ映ってくる。お甲こうの白い顔であり、武蔵たけぞうのすがたであった。今の逆境へ落ちて来た過去を振顧ふりかえると、武蔵がなかったらと思い、お甲に会わなかったらと彼はつい思う。
+
 　過あやまちの一歩は、関ヶ原の戦いくさの時だ。次に、お甲の誘惑だ。あの二つのことさえなかったら、自分は今も、故郷ふるさとにいたろう。そして本位田家の当主になって、美しい嫁をもち、村の人々から、羨望せんぼうされる身でいられたに違いない。
+
 「お通つうは、怨んでいるだろうなあ……。どうしているか」
+
 　彼の今の生活は、彼女を空想することだけが慰めだった。お甲という女の性質がよくわかってからは、お甲と同棲しているうちから、心はお通へもどっていたのだった。やがてあの「よもぎの寮」と呼ぶお甲の家を、ていよく突き出されたような形で出てしまってからは、よけいにお通を思うことが多かった。
+
 　その後また、よく洛内らくないの侍たちの間で噂にのぼる宮本武蔵なる新進の剣士が、むかし友達の「武蔵たけぞう」であることを知ると、又八はじっとしていられなかった。
+
 （よしっ、俺だって）
+
 　彼は酒をやめた。遊惰な悪習を蹴とばした。そして次の生活へかかりかけた。
+
 （お甲のやつにも、見返してやるぞ。――見ていやがれ）
+
 　だが、さしずめ適当な職業は見つからなかった。五年も世間を見ずに、年上の女に養われて来た不覚のほどが、はっきり身に沁みて分ったが、遅かった。
+
 （いや、遅かあない。まだ二十二だ。どんなことをしたって……）
+
 　と、これは誰にでも起せる程度の興奮だったが、又八としては、眼をつぶって運命の断層をとび越えるような悲壮をもって、この伏見城の土木へ働きに出たのだった。そしてこの夏から秋までの炎天下で、自分でもよく続いたと思うほど労働をつづけていた。
+
 （おれも、一かどの男になってみせる。武蔵のやる芸ぐらい、俺に出来ない法はない。いや、今にあいつを尻目にかけて、出世してみせてやる。その時には、お甲にも黙って復讐できるのだ。見ていろここ十年ばかりに）
+
 　だが――と彼はふと思うのだった――十年経ったら、お通は幾歳いくつになるだろうと。
+
 　武蔵や自分よりも、彼女は一ツ年下だ。すると今から十年経つうちには、もう三十を一つこえてしまう。
+
 （それまで、お通が、独り身で待っているかしら？）
+
 　故郷のその後の消息は何も知らない又八だった。そう考えると、十年では遠すぎる、少なくもここ五、六年のうちだ。なんとしても身を立てて、故郷へ行き、お通に詫びて、お通を迎え取らなければならない。
+
 「そうだ……五年か、六年のうちに」
+
 　西瓜を見ている眼に、やや光が出てきた。すると、巨おおきな石の向う側から、仲間の一人が、肱ひじを乗せていった。
+
 「おい又八、何をひとりでぶつぶついってるんだ。……オヤ、ばかに青い面つらして、げんなりしているじゃねえか。どうしたんだ、腐った西瓜でも喰らって、腹でも下痢くだしたのか」
+
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1171</wp:post_id>
@@ -14218,9 +14829,13 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 		<guid isPermaLink="false">http://wptest.io/demo/?p=861</guid>
 		<description></description>
 		<content:encoded><![CDATA[以下を確認してください。
+
 <ul>
+
 	<li><span style="line-height:1.714285714;font-size:1rem;">投稿タイトル内の「付き」という文字が</span><em style="line-height:1.714285714;font-size:1rem;">斜体</em><span style="line-height:1.714285714;font-size:1rem;">で表示され、「マークアップ」が </span><strong style="line-height:1.714285714;font-size:1rem;">太字</strong><span style="line-height:1.714285714;font-size:1rem;">になる。</span></li>
+
 	<li><span style="line-height:1.714285714;font-size:1rem;">投稿タイトルマークアップはブラウザウィンドウ・タブのタイトルには表示されない。</span></li>
+
 </ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1173</wp:post_id>
@@ -14285,126 +14900,248 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 		<description></description>
 		<content:encoded><![CDATA[タイトルに特殊記号を含めた場合にも、レイアウトや機能に悪影響が出ないようにする必要があります。
 
+
+
 投稿タイトル内の特殊記号は minify された JavaScript を使用している際に問題を引き起こす場合があることが確認されています。特に管理画面での投稿編集に影響が出やすいので注意しましょう (例: メタ・ボックス、メディアアップロードなど) 。
+
 <h2>ラテン文字テスト</h2>
+
 これは、テーマで使われているフォントで基本的なラテン文字が表示できるかどうかのテストです。
+
 <table>
+
 <tbody>
+
 <tr>
+
 <td>!</td>
+
 <td>"</td>
+
 <td>#</td>
+
 <td>$</td>
+
 <td>%</td>
+
 <td>&amp;</td>
+
 <td>'</td>
+
 <td>(</td>
+
 <td>)</td>
+
 <td>*</td>
+
 </tr>
+
 <tr>
+
 <td>+</td>
+
 <td>,</td>
+
 <td>-</td>
+
 <td>.</td>
+
 <td>/</td>
+
 <td>0</td>
+
 <td>1</td>
+
 <td>2</td>
+
 <td>3</td>
+
 <td>4</td>
+
 </tr>
+
 <tr>
+
 <td>5</td>
+
 <td>6</td>
+
 <td>7</td>
+
 <td>8</td>
+
 <td>9</td>
+
 <td>:</td>
+
 <td>;</td>
+
 <td>&gt;</td>
+
 <td>=</td>
+
 <td>&lt;</td>
+
 </tr>
+
 <tr>
+
 <td>?</td>
+
 <td>@</td>
+
 <td>A</td>
+
 <td>B</td>
+
 <td>C</td>
+
 <td>D</td>
+
 <td>E</td>
+
 <td>F</td>
+
 <td>G</td>
+
 <td>H</td>
+
 </tr>
+
 <tr>
+
 <td>I</td>
+
 <td>J</td>
+
 <td>K</td>
+
 <td>L</td>
+
 <td>M</td>
+
 <td>N</td>
+
 <td>O</td>
+
 <td>P</td>
+
 <td>Q</td>
+
 <td>R</td>
+
 </tr>
+
 <tr>
+
 <td>S</td>
+
 <td>T</td>
+
 <td>U</td>
+
 <td>V</td>
+
 <td>W</td>
+
 <td>X</td>
+
 <td>Y</td>
+
 <td>Z</td>
+
 <td>[</td>
+
 <td></td>
+
 </tr>
+
 <tr>
+
 <td>]</td>
+
 <td>^</td>
+
 <td>_</td>
+
 <td>`</td>
+
 <td>a</td>
+
 <td>b</td>
+
 <td>c</td>
+
 <td>d</td>
+
 <td>e</td>
+
 <td>f</td>
+
 </tr>
+
 <tr>
+
 <td>g</td>
+
 <td>h</td>
+
 <td>i</td>
+
 <td>j</td>
+
 <td>k</td>
+
 <td>l</td>
+
 <td>m</td>
+
 <td>n</td>
+
 <td>o</td>
+
 <td>p</td>
+
 </tr>
+
 <tr>
+
 <td>q</td>
+
 <td>r</td>
+
 <td>s</td>
+
 <td>t</td>
+
 <td>u</td>
+
 <td>v</td>
+
 <td>w</td>
+
 <td>x</td>
+
 <td>y</td>
+
 <td>z</td>
+
 </tr>
+
 <tr>
+
 <td>{</td>
+
 <td>|</td>
+
 <td>}</td>
+
 <td>~</td>
+
 </tr>
+
 </tbody>
+
 </table>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1174</wp:post_id>
@@ -14461,18 +15198,31 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 		<guid isPermaLink="false">http://wptest.io/demo/?p=895</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h3>デフォルト</h3>
+
 これは段落です。特別なテキスト配置処理が付いていない状態になっている必要があります。通常のテキストフローと同じように表示されるべきです。なにも特別なことはありません。ただ、愛とともに自由に流れるテキストだけ。完全に中立的で、どちらかの肩を持つこともなく、かといってどっちつかずの態度というわけでもない。それだけ。それだけです。ここにいることが好きで、片方のサイドを選ぶ必要を感じていない。そんな彼はほっといてあげてください。彼は彼のままで。私を信じて。
 
+
+
 <h3>左寄せ</h3>
+
 <p style="text-align:left;">これは段落です。左寄せになっています。彼の視点はやや左寄りです。好きな色は緑。左寄せな彼はエコフレンドリーになりがちですが、実際にそうだというはっきりした証拠というのはとくにありません。彼は富を共有するのが好きですが、公平な配分については両端揃えの彼にお任せといったところです。</p>
 
+
+
 <h3>中央寄せ</h3>
+
 <p style="text-align:center;">これは段落です。中央寄せになっています。中央に寄っているというのはつまり、どっちつかずということです。意見がコロコロ変わったりします。自分の意見を決めるのに時間がかかります。どちらかのサイドを選びたいと思っているんです。本当に。意図はすばらしいんですが、実際には助けになるというより物事を必要以上に複雑にしてしまったりします。彼の気持ちを振り向かせられれば最高でしょう。中央寄せの彼は賄賂も受け取るらしいですよ。</p>
 
+
+
 <h3>右寄せ</h3>
+
 <p style="text-align:right;">これは段落です。右寄せになっています。彼の視点は右寄りなんです。他の人に何をどんなふうにすべきか指図されるのをいやがります。右派の彼はたくさんの銃を保有していて、狩りに繰り出すのが好きです。いいじゃないですか。球場5つ分くらいの距離からなかなかいい弾を撃つわけです。どんぴしゃに。すごいですよ。</p>
 
+
+
 <h3>両端揃え</h3>
+
 <p style="text-align:justify;">これは段落です。左右両端揃えになっています。英語ではジャスティファイドと呼ばれていますがジャスティン・ティンバーレイクとは関係ありません。普通、両端揃えの彼はかなり厳格です。すべてがあるべき場所にぴったりと収まっていないと気が済まず、他の配置のようにばらばらだったりはしません。だから彼の方がいいなんて言ってるわけではないんですよ。でもまあ確かに、エリート気取りの態度だなって感じることはありますけど。</p>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1176</wp:post_id>
@@ -14538,50 +15288,97 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 		<description></description>
 		<content:encoded><![CDATA[画像の配置テストへようこそ ! 画像をいろいろな位置に配置してみるのに一番良い方法は、言葉の海の中に画像をそっとうずめてみることです。さあ、はじめましょう。
 
+
+
 画像の配置では、ユーザーが「指定なし」「右寄せ」「左寄せ」「中央揃え」の中から自分の好きなものを選べるようにする必要があります。さらに、「サムネイル」「中サイズ」「大サイズ」「フルサイズ」という選択肢の中から大きさを選べるようにするべきです。
 
+
+
 <p style="text-align: center;"><img class="size-full wp-image-906 aligncenter" title="画像配置 580x300" alt="画像配置 580x300" src="http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-580x300.jpg" width="580" height="300" /></p>
+
 上記の画像は<strong>中央寄せ</strong>になるはずです。
+
+
 
 <strong><img class="size-full wp-image-904 alignleft" title="画像配置 150x150" alt="画像配置 150x150" src="http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-150x150.jpg" width="150" height="150" /></strong>このパラグラフの残り画像を左寄せしたとき、文章が150ピクセルの画像の周りを囲むようになるかどうか見るためのものです。<strong></strong>
 
+
+
 ご覧のとおり、画像の上・下・右にスペースが空いている事がわかると思います。テキストは画像にこっそりと忍びよってはいません、忍び寄ることは良くない事です。画像だって十分に呼吸ができるスペースが必要なのです。画像が文章にイライラさせられることなく役割を果たせるようにしてあげてください。次の文章では、テキストが画像の右から下へとシームレスに途切れることなく続いている事がわかりますね。これで完了です !
+
+
 
 次は、<strong>とても大きな画像</strong>のテストです。そして、この画像には<strong>配置の指定がありません</strong>。
 
+
+
 <img class="alignnone  wp-image-907" title="画像配置 1200x400" alt="画像配置 1200x400" src="http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" />
+
+
 
 上記の画像は1200ピクセルもありますが、コンテンツエリアからはみ出る事はなく収まっています。
 
+
+
 <img class="size-full wp-image-905 alignright" title="画像配置 300x200" alt="画像配置 300x200" src="http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-300x200.jpg" width="300" height="200" />
+
+
 
 そして今後は右寄せに移りたいと思います。また今度も、画像の上、下、左に十分な余白があると思います。ほら、あっちにいる彼を見てください ! 右側の方にいるあの画像 ! 左寄せ画像がなんて言うかなんてどうでもいいんです、美しい配置ですよ。他の人の意見なんて気にしないでいいんです。
 
+
+
 そしてこのへんでテキストが右寄せの画像の下に回り込んで、ちょうど良い具合に収まっているのが分かると思います。ひきつづきちょうど良い具合にスペースが残されていて、すべてがきれいに表示されているべきです。そうです…。右画像に回り込むのって気持ちいいですね。
+
+
 
 さて、これで終わりと思ったかもしれませんが、これからキャプションのテストに入ります !
 
+
+
 [caption id="attachment_906" align="aligncenter" width="580"]<img class="size-full wp-image-906  " title="画像配置 580x300" alt="画像配置 580x300" src="http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-580x300.jpg" width="580" height="300" /> 580x300 画像の<a title="画像設定" href="http://en.support.wordpress.com/images/image-settings/">キャプション</a>例。[/caption]
+
+
 
 上記の画像は<strong>中央寄せ</strong>になるはずです。キャプションにはリンクが含まれていますが、おかしな表示になっていないか確認しましょう。
 
+
+
 [caption id="attachment_904" align="alignleft" width="150"]<img class="size-full wp-image-904  " title="画像配置 150x150" alt="画像配置 150x150" src="http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-150x150.jpg" width="150" height="150" /> ちょっとしたキャプション[/caption]
+
+
 
 このパラグラフの残りの部分は、150x150 サイズの<strong>左寄せ</strong>画像の回り込みをテストするためのつなぎです。 
 
+
+
 ご覧の通り、画像の上・下・右にスペースが必要です。テキストは画像にこっそりと忍びよってはいません、忍び寄ることは良くない事です。画像だって十分に呼吸ができるスペースが必要なのです。画像が文章にイライラさせられることなく役割を果たせるようにしてあげてください。次の文章では、テキストが画像の右から下へとシームレスに途切れることなく続いている事がわかりますね。これで完了です !
+
+
 
 それでは、<strong>とても大きな画像</strong>のテストです。そして、この画像にも<strong>配置の指定はありません</strong>。
 
+
+
 [caption id="attachment_907" align="alignnone" width="1200"]<img class=" wp-image-907" title="画像配置 1200x400" alt="画像配置 1200x400" src="http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" /> とても大きな画像のコメント[/caption]
+
+
 
 上記の画像は1200ピクセル幅ですが、コンテンツエリアからはみ出すべきではありません。コンテンツのフローを視覚的に邪魔しないかたちで、指定のエリア内に収まっている必要があります。
 
+
+
 [caption id="attachment_905" align="alignright" width="300"]<img class="size-full wp-image-905 " title="画像配置 300x200" alt="画像配置 300x200" src="http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-300x200.jpg" width="300" height="200" /> 右側いるのほ良い気分です。[/caption]
+
+
 
 そして今後は<strong>右寄せ</strong>画像に移りたいと思います。また今度も、画像の上、下、左に十分な余白があると思います。ほら、あっちにいる彼を見てください ! 右側の方にいるあの画像 ! 左寄せ画像がなんて言うかなんてどうでもいいんです、美しい配置ですよ。他の人の意見なんて気にしないでいいんです
 
+
+
 そしてこのへんでテキストが右寄せの画像の下に回り込んで、ちょうど良い具合に収まっているのが分かると思います。ひきつづきちょうど良い具合にスペースが残されていて、すべてがきれいに表示されているべきです。そうです…。右画像に回り込むのって気持ちいいですね。
+
+
 
 それでは、これで終わりです。画像配置のテスト、お疲れ様でした !]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -14681,165 +15478,325 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 		<guid isPermaLink="false">http://wptest.io/demo/?p=919</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>見出し</h2>
+
 <h1>見出し壱</h1>
+
 <h2>見出し弐</h2>
+
 <h3>見出し参</h3>
+
 <h4>見出し四</h4>
+
 <h5>見出し五</h5>
+
 <h6>見出し六</h6>
+
 <h2>引用 (Blockquote) テスト</h2>
 
+
+
 一行の引用。
+
 <blockquote>ハングリーであれ、愚かであれ。</blockquote>
 
+
+
 <code>cite</code> 参照を含む複数行の引用。
+
 <blockquote>これは言語みたいなものだ。アルファベットすなわち音階を学び、文すなわちコードを学ぶ。そしてやがてホーンと即興で会話するようになる。即興で話すのはすばらしいことだと思うが、私には決して会得できないだろう。しかし音楽ともなれば、私は即座によろこんで会話する。そう、それがジャズ音楽のすべてだ。
+
 <cite>スタン・ゲッツ</cite></blockquote>
 
+
+
 <h2>テーブル</h2>
+
 <table>
+
 <thead>
+
 <tr>
+
 <th>社員</th>
+
 <th>給料</th>
+
 <th></th>
+
 </tr>
+
 </thead>
+
 <tbody>
+
 <tr>
+
 <th><a href="http://example.org/">山田太郎</a></th>
+
 <td>1ドル</td>
+
 <td>スティーブ・ジョブズが必要なサラリーと同じ額。</td>
+
 </tr>
+
 <tr>
+
 <th><a href="http://example.org/">田中花子</a></th>
+
 <td>1,000万円</td>
+
 <td>ブログを書くために必要になる資金。</td>
+
 </tr>
+
 <tr>
+
 <th><a href="http://example.org/">山本次郎</a></th>
+
 <td>1億円</td>
+
 <td>百聞は一見にしかず、ということで、カメラマンはブロガーの100倍。</td>
+
 </tr>
+
 <tr>
+
 <th><a href="http://example.org/">中山愛子</a></th>
+
 <td>10億円</td>
+
 <td>特に理由は要りません。</td>
+
 </tr>
+
 </tbody>
+
 </table>
+
 <dl><dt>定義リストタイトル</dt><dd>これは定義リストです。</dd><dt>定義</dt><dd>物事、領域、何かについての意味の正確な文章や説明: <em>詩を構成するものの定義。</em><em></em></dd><dt>ギャラリー</dt><dd>WordPress 2.5 から導入された、投稿に添付された画像を展示するための機能です。同じように、投稿を編集中にアップロードすると、そのファイルは「投稿に添付」されます。 </dd><dt>Gravatar (グラバター)</dt><dd>グラバターとはグローバルに認識されるアバター (あるユーザーを表すグラフィックイメージや写真) です。グラバターはメールアドレスと紐づいていて、Gravatar.com サービスによって管理されています。このサービスを利用すると、ブログ所有者は自分のブログを設定することによりコメント欄にユーザーのグラバターを表示させることができます。</dd></dl>
+
 <h2>非順序リスト (ネスト化)</h2>
+
 <ul>
+
 	<li>リスト項目 1
+
 <ul>
+
 	<li>リスト項目 1
+
 <ul>
+
 	<li>リスト項目 1</li>
+
 	<li>リスト項目 2</li>
+
 	<li>リスト項目 3</li>
+
 	<li>リスト項目 4</li>
+
 </ul>
+
 </li>
+
 	<li>リスト項目 2</li>
+
 	<li>リスト項目 3</li>
+
 	<li>リスト項目 4</li>
+
 </ul>
+
 </li>
+
 	<li>リスト項目 2</li>
+
 	<li>リスト項目 3</li>
+
 	<li>リスト項目 4</li>
+
 </ul>
+
 <h2>順序リスト (ネスト化)</h2>
+
 <ol>
+
 	<li>リスト項目 1
+
 <ol>
+
 	<li>リスト項目 1
+
 <ol>
+
 	<li>リスト項目 1</li>
+
 	<li>リスト項目 2</li>
+
 	<li>リスト項目 3</li>
+
 	<li>リスト項目 4</li>
+
 </ol>
+
 </li>
+
 	<li>リスト項目 2</li>
+
 	<li>リスト項目 3</li>
+
 	<li>リスト項目 4</li>
+
 </ol>
+
 </li>
+
 	<li>リスト項目 2</li>
+
 	<li>リスト項目 3</li>
+
 	<li>リスト項目 4</li>
+
 </ol>
+
 <h2>HTML 要素タグテスト</h2>
+
 他の HTML タグは <a href="http://ja.support.wordpress.com/code/" rel="nofollow">FAQ</a> をご覧ください。
 
+
+
 <strong>住所タグ</strong>
+
 以下は住所の例です。<code>&lt;address&gt;</code> タグを使用しています:
 
+
+
 <address>〒100-0000
+
 東京都千代田区1-1-1
+
 日本</address>
 
+
+
 <strong>anchor タグ (リンク)</strong>
+
 これは <a href="http://example.com/" rel="nofollow"><code>&lt;anchor&gt;</code></a> (もしくはリンクとも呼ばれます) の例です。
 
+
+
 <strong>abbr タグ</strong>
+
 この <abbr title="abbreviation">abbr</abbr> は文章の中にある &lt;abbr&gt; タグの例です。
 
+
+
 <strong>Acronym タグ (<em>HTML5 では非推奨</em>)</strong>
+
 これは <code>&lt;acronym&gt;</code> タグを使用した <acronym title="three-letter acronym">TLA</acronym> です。
 
+
+
 <strong>Big タグ(<em>HTML5 では非推奨</em>)</strong>
+
 このテストは<big>大きな</big>文字を表す <code>&lt;big&gt;</code> タグの例ですが、このタグは HTML5 ではサポートされていません。
 
+
+
 <strong>Cite タグ</strong>
+
 "Code is poetry." --<cite>WordPress</cite>
 
+
+
 <strong>Code タグ</strong>
+
 <code>&lt;code&gt;</code> タグはこのように使います: <code>word-wrap: break-word;</code>
 
+
+
 <strong>Delete タグ</strong>
+
 <code>&lt;del&gt;</code> タグは<del>打ち消し線</del>などで表現されますが、このタグは HTML5 ではサポートされていません (代わりに <code>&lt;strike&gt;</code> を使ってください)。
 
+
+
 <strong>Emphasize タグ</strong>
+
 <code>&lt;em&gt;</code> タグは<em>文章の強調</em>に使われます。欧文では斜体になっていることがよくあります。
 
+
+
 <strong>Insert タグ</strong>
+
 <code>&lt;ins&gt;</code> タグは<ins>挿入されたコンテンツ</ins>を意味します。
 
+
+
 <strong>Keyboard タグ</strong>
+
 このあまり知られていない <code>&lt;kbd&gt;</code> タグは <kbd>Ctrl</kbd> のようにキーボードテキストをエミュレートします。通常、<code>&lt;code&gt;</code> タグと同じようにスタイリングされます。
 
+
+
 <strong>Preformatted タグ</strong>
+
 <code>&lt;pre&gt;</code> タグは複数行のコードのスタイリングに使います。
+
 <pre>.post-title {
+
 	margin: 0 0 5px;
+
 	font-weight: bold;
+
 	font-size: 38px;
+
 	line-height: 1.2;
+
 	and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
+
 }</pre>
 
+
+
 <strong>Quote タグ</strong>
+
 <q>デベロッパーズ、デベロッパーズ, デベロッパーズ...</q> --スティーブ・バルマー
 
+
+
 <strong>Strike タグ (<em>HTML5 では非推奨</em>)</strong>
+
 このタグは<span style="text-decoration: line-through;">打ち消し線</span>を表しています。
 
+
+
 <strong>Strong タグ</strong>
+
 このタグは<strong>太字</strong>テキストを表しています。
 
+
+
 <strong>Subscript タグ</strong>
+
 Subscript タグ <code>&lt;sub&gt;</code> を使うと H<sub>2</sub>O のような表示の際に「2」が下付きになります。
 
+
+
 <strong>Superscript タグ</strong>
+
 Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> のような表示の際に「2」が上付きになります。
 
+
+
 <strong>Teletype タグ (<em>HTML5 では非推奨</em>)</strong>
+
 <code>&lt;tt&gt;</code> はあまり使われないタグですが、<tt>テレタイプテキスト</tt> として通常 <code>&lt;code&gt;</code> タグのようにスタイル
 
+
+
 <strong>Variable タグ</strong>
+
 変数や引数を表す <var>variables</var> タグです。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1178</wp:post_id>
@@ -14930,12 +15887,20 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 		<description></description>
 		<content:encoded><![CDATA[先頭固定表示投稿です。
 
+
+
 以下を確認してください。
+
 <ul>
+
 	<li>先頭に固定表示する投稿は、何らかの形で通常の投稿と差をつけてその違いが認識できるようにしてください。<a title="WordPress Codex post_class() Function" href="http://wpdocs.sourceforge.jp/テンプレートタグ/post_class" target="_blank">post_class()</a> 関数を使って投稿の class を生成している場合、<code>.sticky</code> クラスにスタイルを追加できます。この方法が最適なやり方です。</li>
+
 	<li>ブログのインデックスページでは、もし時系列的に後の方に出現する投稿であったとしても一番先頭に表示されるべきです。</li>
+
 	<li>時系列的に正しい位置でももう一度表示されるべきです。その際には固定表示向けの特別なスタイルは必要ありません。</li>
+
 	<li>人気の投稿やコメントを一覧表示するプラグインやウィジェットを使っている場合、この先頭固定表示投稿が実際に人気があるのではない限りは常に上位表示されないようにしてください。</li>
+
 </ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1241</wp:post_id>
@@ -15023,7 +15988,11 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 		<description></description>
 		<content:encoded><![CDATA[これは投稿の内容です。単独ページで表示する場合、自動生成の抜粋ではなく、これが表示されるべきです。アーカイブの目次のページは、この内容から自動生成された抜粋が表示するべきです。テーマで定義されたフィルターに依存し、テーマごとに自動抜粋の長さは変わるでしょう。デフォルトの自動抜粋の長さは55語です。したがって、自動抜粋のテストのためには、この投稿は55語以上でなければなりません。
 
+
+
 レイアウトの問題が出ないことを保証するために、ぜひ自動生成の抜粋の整形をテストしてください。また、&lt;code&gt;excerpt_length&lt;/code&gt; や &lt;code&gt;excerpt_more&lt;/code&gt; などすべてのフィルターが適用され、正しく表示されることを確認してください。
+
+
 
 【訳注】日本語の場合、<a href="http://wordpress.org/plugins/wp-multibyte-patch/" >WP Multibyte Patch</a> の利用を強くお奨めします。抜粋の量を「語数」ではなく「文字数」にするなど多くの補助機能が提供されます。詳しくは <a href="http://eastcoder.com/code/wp-multibyte-patch/" >WP Multibyte Patch</a> をご覧ください。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -15057,38 +16026,71 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 			<wp:meta_value><![CDATA[8]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
+
 	<item>
+
 		<title>ものすごく長い日本語のタイトルが付いた記事の表示テストです。1行分しか想定されていない見出しのデザインだと文字がはみ出してしまってあら大変。複数行になっても問題ないデザインだといいですね。あと前後の記事へのリンクを出力している場合や、パンくずリストを実装している場合なども表示にズレがないか確認しておきましょう。</title>
-		<link>http://wp03.ozonenotes.jp/archives/78</link>
+
+		<link></link>
+
 		<pubDate>Sun, 05 Jan 2014 06:01:18 +0000</pubDate>
+
 		<dc:creator><![CDATA[mypacecreator]]></dc:creator>
-		<guid isPermaLink="false">http://wp03.ozonenotes.jp/?p=78</guid>
+
+		<guid isPermaLink="false"></guid>
+
 		<description></description>
+
 		<content:encoded><![CDATA[<ul>
+
 	<li>記事タイトル部分の見出しデザインが崩れていないか、文字が背景からはみ出していたりしないか確認しましょう。</li>
+
 	<li>previous_post_linkやnext_post_linkなどで前後の記事のタイトルを出力する場合も、レイアウト崩れが発生していないか確認しましょう。</li>
+
 	<li>その他、ウィジェットやプラグイン等でいろいろな場所に記事タイトルが出力されるケースが多いので併せて確認しましょう。</li>
+
 	<li>用途に応じて、PHPの<a href="http://www.php.net/manual/ja/function.mb-substr.php" target="_blank">mb_substr</a>や<a href="http://www.php.net/manual/ja/function.mb-strlen.php" target="_blank">mb_strlen</a>関数を使って文字列をトリミングするという手もあります。
+
 ※その際、<a href="http://wpdocs.sourceforge.jp/%E3%83%87%E3%83%BC%E3%82%BF%E6%A4%9C%E8%A8%BC" target="_blank">データの無害化 (サニタイズ) </a>にも配慮するとより盤石です。</li>
+
 </ul>]]></content:encoded>
+
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>78</wp:post_id>
+
+		<wp:post_id></wp:post_id>
+
 		<wp:post_date>2014-01-05 15:01:18</wp:post_date>
+
 		<wp:post_date_gmt>2014-01-05 06:01:18</wp:post_date_gmt>
+
 		<wp:comment_status>closed</wp:comment_status>
+
 		<wp:ping_status>closed</wp:ping_status>
+
 		<wp:post_name>%e3%82%82%e3%81%ae%e3%81%99%e3%81%94%e3%81%8f%e9%95%b7%e3%81%84%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%ae%e3%82%bf%e3%82%a4%e3%83%88%e3%83%ab%e3%81%8c%e4%bb%98%e3%81%84%e3%81%9f%e8%a8%98%e4%ba%8b%e3%81%ae</wp:post_name>
+
 		<wp:status>publish</wp:status>
+
 		<wp:post_parent>0</wp:post_parent>
+
 		<wp:menu_order>0</wp:menu_order>
+
 		<wp:post_type>post</wp:post_type>
+
 		<wp:post_password></wp:post_password>
+
 		<wp:is_sticky>0</wp:is_sticky>
+
 		<category domain="category" nicename="%e6%a5%b5%e7%ab%af%e3%81%aa%e4%be%8b"><![CDATA[極端な例]]></category>
+
 		<wp:postmeta>
+
 			<wp:meta_key>_edit_last</wp:meta_key>
+
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+
 		</wp:postmeta>
+
 	</item>
 </channel>
 </rss>
