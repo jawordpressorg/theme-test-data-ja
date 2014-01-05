@@ -12746,48 +12746,6 @@ word-wrap: break-word;</pre>]]></content:encoded>
 		</wp:postmeta>
 	</item>
 	<item>
-				<title>Hello world!</title>
-		<link>http://kassad-tekapo.sqale.jp/hello-world/</link>
-		<pubDate>Fri, 25 Oct 2013 01:42:44 +0000</pubDate>
-		<dc:creator><![CDATA[WP-Hangouts]]></dc:creator>
-		<guid isPermaLink="false">http://kassad-tekapo.sqale.jp/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[WordPress へようこそ。これは最初の投稿です。編集もしくは削除してブログを始めてください !]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date>2013-10-25 10:42:44</wp:post_date>
-		<wp:post_date_gmt>2013-10-25 01:42:44</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>hello-world</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="%e6%9c%aa%e5%88%86%e9%a1%9e"><![CDATA[未分類]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[11]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[Mr WordPress]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url>http://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP></wp:comment_author_IP>
-			<wp:comment_date>2013-10-25 10:42:44</wp:comment_date>
-			<wp:comment_date_gmt>2013-10-25 10:42:44</wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[これはコメントです。
-コメントを削除するには、ログインして投稿編集画面でコメントを表示してください。編集または削除するオプションが用意されています。]]></wp:comment_content>
-			<wp:comment_approved>1</wp:comment_approved>
-			<wp:comment_type></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-		</wp:comment>
-	</item>
-	<item>
 				<title>テンプレート: 抜粋 (ユーザー定義)</title>
 		<link>http://kassad-tekapo.sqale.jp/template-excerpt-defined/</link>
 		<pubDate>Thu, 15 Mar 2012 21:38:08 +0000</pubDate>
