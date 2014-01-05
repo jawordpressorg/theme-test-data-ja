@@ -48,7 +48,9 @@
 	<wp:author><wp:author_id>13</wp:author_id><wp:author_login>haya2</wp:author_login><wp:author_email>hayashimasaya@example.com</wp:author_email><wp:author_display_name><![CDATA[haya2]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>14</wp:author_id><wp:author_login>mihojisan</wp:author_login><wp:author_email>ishida.miho@example.com</wp:author_email><wp:author_display_name><![CDATA[mihojisan]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-	<wp:category><wp:term_id>190</wp:term_id><wp:category_nicename>%e3%81%82%e3%81%95%e3%81%b2</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[あさひ]]></wp:cat_name></wp:category>
+<wp:author><wp:author_id>15</wp:author_id><wp:author_login>mypacecreator</wp:author_login><wp:author_email>mypacecreator@example.com</wp:author_email><wp:author_display_name><![CDATA[mypacecreator]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+
+<wp:category><wp:term_id>190</wp:term_id><wp:category_nicename>%e3%81%82%e3%81%95%e3%81%b2</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[あさひ]]></wp:cat_name></wp:category>
 	<wp:category><wp:term_id>191</wp:term_id><wp:category_nicename>%e3%81%84%e3%82%8d%e3%81%af</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[いろは]]></wp:cat_name></wp:category>
 	<wp:category><wp:term_id>192</wp:term_id><wp:category_nicename>%e3%81%86%e3%81%88%e3%81%ae</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[うえの]]></wp:cat_name></wp:category>
 	<wp:category><wp:term_id>193</wp:term_id><wp:category_nicename>%e3%81%88%e3%81%84%e3%81%94</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[えいご]]></wp:cat_name></wp:category>
