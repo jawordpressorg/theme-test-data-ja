@@ -1,7 +1,9 @@
 theme-test-data-ja
 ==================
 
-Japanese test data for WordPress
+This is a theme unit test data Japanese version.
+
+See for more details about [Theme Unit Test](git@github.com:jawordpressorg/theme-test-data-ja.git).
 
 テーマユニットテストデータの日本語版です。
 
