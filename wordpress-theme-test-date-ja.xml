@@ -15971,13 +15971,11 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 
 	<li>記事タイトル部分の見出しデザインが崩れていないか、文字が背景からはみ出していたりしないか確認しましょう。</li>
 
-	<li>previous_post_linkやnext_post_linkなどで前後の記事のタイトルを出力する場合も、レイアウト崩れが発生していないか確認しましょう。</li>
+	<li>the_post_navigation() などで前後の記事のタイトルを出力する場合も、レイアウト崩れが発生していないか確認しましょう。</li>
 
 	<li>その他、ウィジェットやプラグイン等でいろいろな場所に記事タイトルが出力されるケースが多いので併せて確認しましょう。</li>
 
-	<li>用途に応じて、PHPの<a href="http://www.php.net/manual/ja/function.mb-substr.php" target="_blank">mb_substr</a>や<a href="http://www.php.net/manual/ja/function.mb-strlen.php" target="_blank">mb_strlen</a>関数を使って文字列をトリミングするという手もあります。
-
-※その際、<a href="http://wpdocs.sourceforge.jp/%E3%83%87%E3%83%BC%E3%82%BF%E6%A4%9C%E8%A8%BC" target="_blank">データの無害化 (サニタイズ) </a>にも配慮するとより盤石です。</li>
+	<li>用途に応じて、wp_trim_words() 関数を使って文字列をトリミングするという手もあります。</li>
 
 </ul>]]></content:encoded>
 
