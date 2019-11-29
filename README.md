@@ -7,6 +7,15 @@ See for more about [Theme Unit Test on WordPress Codex](https://codex.wordpress.
 
 テーマユニットテストデータの日本語版です。
 
+- wordpress-theme-test-data-ja.xml
+  - テーマユニットテストデータの日本語版
+- wordpress-theme-test-date-ja.xml
+  - ファイル名をタイポしているので削除予定です。
+- ja-en-diff-as-of-2019-11-01.xml
+  - XXX
+- WordPress.2019-11-01_at-end-wctokyo-contri.xml
+  - YYY
+  
 管理画面のツール->インポートの「WordPress」からインポートして使ってください。
 
 ***
