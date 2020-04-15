@@ -213,7 +213,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2010/08/spectacles1.gif</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2014/01/spectacles.gif</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2010/08/spectacles1.gif]]></wp:meta_value>
@@ -228,7 +228,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=611</link>
 		<pubDate>Mon, 10 Jan 2011 13:17:54 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/01/canola21.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/canola2.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec mollis. Quisque convallis libero in sapien pharetra tincidunt. Aliquam elit ante, malesuada id, tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nisi orci ullamcorper massa, et adipiscing orci velit quis magna.]]></excerpt:encoded>
@@ -244,14 +244,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/01/canola21.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/canola2.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/01/canola21.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2011/01/canola2.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:20:"2011/01/canola21.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:20:"canola21-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:20:"canola21-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:20:"canola21-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:5.5999999999999996447286321199499070644378662109375;s:6:"credit";s:0:"";s:6:"camera";s:18:"Canon PowerShot G2";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1094915268;s:9:"copyright";s:0:"";s:12:"focal_length";s:7:"16.8125";s:3:"iso";i:0;s:13:"shutter_speed";s:9:"0.0015625";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:20:"2011/01/canola2.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:20:"canola21-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:20:"canola21-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:20:"canola21-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:5.5999999999999996447286321199499070644378662109375;s:6:"credit";s:0:"";s:6:"camera";s:18:"Canon PowerShot G2";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1094915268;s:9:"copyright";s:0:"";s:12:"focal_length";s:7:"16.8125";s:3:"iso";i:0;s:13:"shutter_speed";s:9:"0.0015625";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -299,7 +299,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=613</link>
 		<pubDate>Mon, 10 Jan 2011 13:19:10 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/01/dsc20050315_145007_1321.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050315_145007_132.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -315,14 +315,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/01/dsc20050315_145007_1321.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2014/01/dsc20050315_145007_132.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/01/dsc20050315_145007_1321.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2011/01/dsc20050315_145007_132.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:35:"2011/01/dsc20050315_145007_1321.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"dsc20050315_145007_1321-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"dsc20050315_145007_1321-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:35:"dsc20050315_145007_1321-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2.20000000000000017763568394002504646778106689453125;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1110898207;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"9.7";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.008";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:35:"2011/01/dsc20050315_145007_132.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"dsc20050315_145007_1321-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"dsc20050315_145007_1321-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:35:"dsc20050315_145007_1321-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2.20000000000000017763568394002504646778106689453125;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1110898207;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"9.7";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.008";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -370,7 +370,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=616</link>
 		<pubDate>Mon, 10 Jan 2011 13:20:37 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/01/dsc20050727_091048_2221.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050727_091048_222.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -386,14 +386,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/01/dsc20050727_091048_2221.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050727_091048_222.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/01/dsc20050727_091048_2221.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2011/01/dsc20050727_091048_222.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:35:"2011/01/dsc20050727_091048_2221.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"dsc20050727_091048_2221-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"dsc20050727_091048_2221-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:35:"dsc20050727_091048_2221-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:4;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1122455448;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"9.7";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.004";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:35:"2011/01/dsc20050727_091048_222.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"dsc20050727_091048_2221-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"dsc20050727_091048_2221-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:35:"dsc20050727_091048_2221-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:4;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1122455448;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"9.7";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.004";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -441,7 +441,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=617</link>
 		<pubDate>Mon, 10 Jan 2011 13:20:57 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/01/dsc20050813_115856_521.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050813_115856_52.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -457,14 +457,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/01/dsc20050813_115856_521.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050813_115856_52.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/01/dsc20050813_115856_521.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2011/01/dsc20050813_115856_52.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:34:"2011/01/dsc20050813_115856_521.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:34:"dsc20050813_115856_521-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:34:"dsc20050813_115856_521-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:34:"dsc20050813_115856_521-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:3.20000000000000017763568394002504646778106689453125;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1123934337;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"9.7";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.008";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:34:"2011/01/dsc20050813_115856_52.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:34:"dsc20050813_115856_521-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:34:"dsc20050813_115856_521-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:34:"dsc20050813_115856_521-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:3.20000000000000017763568394002504646778106689453125;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1123934337;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"9.7";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.008";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -512,7 +512,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=754</link>
 		<pubDate>Fri, 15 Jul 2011 21:34:50 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/07/100_54781.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/100_5478.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/100_5540.JPG.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Bell on wharf in San Francisco]]></excerpt:encoded>
@@ -528,14 +528,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/07/100_54781.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/100_5478.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/07/100_54781.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2008/06/100_5478.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:21:"2011/07/100_54781.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"100_54781-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"100_54781-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"100_54781-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"100_54781-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:6.29999999999999982236431605997495353221893310546875;s:6:"credit";s:0:"";s:6:"camera";s:32:"KODAK DX7590 ZOOM DIGITAL CAMERA";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1145694068;s:9:"copyright";s:0:"";s:12:"focal_length";s:4:"17.5";s:3:"iso";s:2:"80";s:13:"shutter_speed";s:5:"0.002";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:21:"2008/06/100_5478.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"100_54781-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"100_54781-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"100_54781-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"100_54781-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:6.29999999999999982236431605997495353221893310546875;s:6:"credit";s:0:"";s:6:"camera";s:32:"KODAK DX7590 ZOOM DIGITAL CAMERA";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1145694068;s:9:"copyright";s:0:"";s:12:"focal_length";s:4:"17.5";s:3:"iso";s:2:"80";s:13:"shutter_speed";s:5:"0.002";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -579,7 +579,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=755</link>
 		<pubDate>Fri, 15 Jul 2011 21:35:55 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/07/100_55401.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/100_5540.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/100_5478.JPG.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Golden Gate Bridge]]></excerpt:encoded>
@@ -595,14 +595,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/07/100_55401.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/100_5540.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/07/100_55401.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2008/06/100_5540.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:21:"2011/07/100_55401.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"100_55401-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"100_55401-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"100_55401-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"100_55401-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:4;s:6:"credit";s:0:"";s:6:"camera";s:32:"KODAK DX7590 ZOOM DIGITAL CAMERA";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1145697622;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"6.3";s:3:"iso";s:2:"80";s:13:"shutter_speed";s:7:"0.00125";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:21:"2008/06/100_5540.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"100_55401-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"100_55401-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"100_55401-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"100_55401-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:4;s:6:"credit";s:0:"";s:6:"camera";s:32:"KODAK DX7590 ZOOM DIGITAL CAMERA";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1145697622;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"6.3";s:3:"iso";s:2:"80";s:13:"shutter_speed";s:7:"0.00125";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -646,7 +646,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=756</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:24 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/07/cep000321.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/cep00032.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/CEP00032.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Sunburst over the Clinch River, Southwest Virginia.]]></excerpt:encoded>
@@ -662,14 +662,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/07/cep000321.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/cep00032.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/07/cep000321.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2008/06/cep00032.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1200;s:4:"file";s:21:"2011/07/cep000321.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"cep000321-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"cep000321-300x240.jpg";s:5:"width";i:300;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"cep000321-1024x819.jpg";s:5:"width";i:1024;s:6:"height";i:819;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"cep000321-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:4;s:6:"credit";s:0:"";s:6:"camera";s:13:"Canon ELURA90";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1130775264;s:9:"copyright";s:0:"";s:12:"focal_length";s:4:"4.15";s:3:"iso";i:0;s:13:"shutter_speed";s:8:"0.002091";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1500;s:6:"height";i:1200;s:4:"file";s:21:"2008/06/cep00032.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"cep000321-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"cep000321-300x240.jpg";s:5:"width";i:300;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"cep000321-1024x819.jpg";s:5:"width";i:1024;s:6:"height";i:819;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"cep000321-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:4;s:6:"credit";s:0:"";s:6:"camera";s:13:"Canon ELURA90";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1130775264;s:9:"copyright";s:0:"";s:12:"focal_length";s:4:"4.15";s:3:"iso";i:0;s:13:"shutter_speed";s:8:"0.002091";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -713,7 +713,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=757</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:27 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/07/dcp_20821.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dcp_2082.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/DCP_2082.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Boardwalk at Westport, WA]]></excerpt:encoded>
@@ -729,14 +729,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/07/dcp_20821.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dcp_2082.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/07/dcp_20821.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2008/06/dcp_2082.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1066;s:4:"file";s:21:"2011/07/dcp_20821.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"dcp_20821-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"dcp_20821-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"dcp_20821-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"dcp_20821-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:5.5999999999999996447286321199499070644378662109375;s:6:"credit";s:0:"";s:6:"camera";s:32:"KODAK DX4900 ZOOM DIGITAL CAMERA";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1054666444;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"7.3";s:3:"iso";i:0;s:13:"shutter_speed";s:5:"0.002";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1066;s:4:"file";s:21:"2008/06/dcp_2082.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"dcp_20821-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"dcp_20821-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"dcp_20821-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"dcp_20821-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:5.5999999999999996447286321199499070644378662109375;s:6:"credit";s:0:"";s:6:"camera";s:32:"KODAK DX4900 ZOOM DIGITAL CAMERA";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1054666444;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"7.3";s:3:"iso";i:0;s:13:"shutter_speed";s:5:"0.002";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -780,7 +780,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=758</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:33 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/07/dsc031491.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc03149.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/dsc03149.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Boats and reflections, Royal Perth Yacht Club]]></excerpt:encoded>
@@ -796,14 +796,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/07/dsc031491.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc03149.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/07/dsc031491.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2008/06/dsc03149.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:960;s:4:"file";s:21:"2011/07/dsc031491.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"dsc031491-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"dsc031491-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"dsc031491-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"dsc031491-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:4;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1034618291;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"9.7";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.004";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:960;s:4:"file";s:21:"2008/06/dsc03149.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"dsc031491-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"dsc031491-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"dsc031491-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"dsc031491-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:4;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1034618291;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"9.7";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.004";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -847,7 +847,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=759</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:37 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/07/dsc045631.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc04563.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/dsc04563.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Raindrop ripples on a pond]]></excerpt:encoded>
@@ -863,14 +863,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/07/dsc045631.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc04563.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/07/dsc045631.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2008/06/dsc04563.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:21:"2011/07/dsc045631.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"dsc045631-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"dsc045631-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"dsc045631-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"dsc045631-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:4;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1040567677;s:9:"copyright";s:0:"";s:12:"focal_length";s:4:"48.5";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.002";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:21:"2008/06/dsc04563.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"dsc045631-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"dsc045631-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"dsc045631-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"dsc045631-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:4;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1040567677;s:9:"copyright";s:0:"";s:12:"focal_length";s:4:"48.5";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.002";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -914,7 +914,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=760</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:41 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/07/dsc091141.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc09114.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/dsc09114.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Sydney Harbor Bridge]]></excerpt:encoded>
@@ -930,14 +930,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/07/dsc091141.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc09114.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/07/dsc091141.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2008/06/dsc09114.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:21:"2011/07/dsc091141.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"dsc091141-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"dsc091141-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"dsc091141-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"dsc091141-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:5.5999999999999996447286321199499070644378662109375;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1067174771;s:9:"copyright";s:0:"";s:12:"focal_length";s:4:"11.8";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.002";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:21:"2008/06/dsc09114.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"dsc091141-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"dsc091141-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"dsc091141-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"dsc091141-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:5.5999999999999996447286321199499070644378662109375;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1067174771;s:9:"copyright";s:0:"";s:12:"focal_length";s:4:"11.8";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.002";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -981,9 +981,9 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=761</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:42 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/07/dsc20050102_192118_511.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050102_192118_51.jpg</guid>
 		<description></description>
-		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/dsc20050102_192118_51.jpg.html]]></content:encoded>
+		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/dsc20050102_192118_5.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Albany wind-farm against the sunset, Western Australia]]></excerpt:encoded>
 		<wp:post_id>761</wp:post_id>
 		<wp:post_date>2011-07-15 14:41:42</wp:post_date>
@@ -997,14 +997,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/07/dsc20050102_192118_511.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050102_192118_51.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/07/dsc20050102_192118_511.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2008/06/dsc20050102_192118_51.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:34:"2011/07/dsc20050102_192118_511.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:34:"dsc20050102_192118_511-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:34:"dsc20050102_192118_511-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:35:"dsc20050102_192118_511-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:34:"dsc20050102_192118_511-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:4;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1104693678;s:9:"copyright";s:0:"";s:12:"focal_length";s:4:"33.3";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:7:"0.00625";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:34:"2008/06/dsc20050102_192118_51.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:34:"dsc20050102_192118_511-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:34:"dsc20050102_192118_511-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:35:"dsc20050102_192118_511-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:34:"dsc20050102_192118_511-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:4;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1104693678;s:9:"copyright";s:0:"";s:12:"focal_length";s:4:"33.3";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:7:"0.00625";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -1048,7 +1048,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=762</link>
 		<pubDate>Fri, 15 Jul 2011 21:41:45 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/07/dsc20051220_160808_1021.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc20051220_160808_102.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/dsc20051220_160808_102.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Antique farm machinery, Mount Barker Museum, Western Australia]]></excerpt:encoded>
@@ -1064,14 +1064,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/07/dsc20051220_160808_1021.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc20051220_160808_102.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/07/dsc20051220_160808_1021.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2008/06/dsc20051220_160808_102.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1066;s:4:"file";s:35:"2011/07/dsc20051220_160808_1021.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"dsc20051220_160808_1021-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"dsc20051220_160808_1021-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:36:"dsc20051220_160808_1021-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:35:"dsc20051220_160808_1021-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2.5;s:6:"credit";s:0:"";s:6:"camera";s:13:"Canon EOS 10D";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1135094888;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"50";s:3:"iso";s:3:"400";s:13:"shutter_speed";s:17:"0.016666666666667";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1066;s:4:"file";s:35:"2008/06/dsc20051220_160808_102.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"dsc20051220_160808_1021-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"dsc20051220_160808_1021-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:36:"dsc20051220_160808_1021-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:35:"dsc20051220_160808_1021-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2.5;s:6:"credit";s:0:"";s:6:"camera";s:13:"Canon EOS 10D";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1135094888;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"50";s:3:"iso";s:3:"400";s:13:"shutter_speed";s:17:"0.016666666666667";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -1115,7 +1115,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=763</link>
 		<pubDate>Fri, 15 Jul 2011 21:46:27 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/07/dsc020851.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc02085.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/main.php?g2_view=dynamicalbum.UpdatesAlbum&amp;g2_itemId=25895]]></content:encoded>
 		<excerpt:encoded><![CDATA[Orange Iris]]></excerpt:encoded>
@@ -1131,14 +1131,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/07/dsc020851.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc02085.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/07/dsc020851.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2008/06/dsc02085.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:21:"2011/07/dsc020851.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"dsc020851-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"dsc020851-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"dsc020851-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"dsc020851-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2.899999999999999911182158029987476766109466552734375;s:6:"credit";s:0:"";s:6:"camera";s:8:"DSC-S930";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1288861799;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"6.4";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.008";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:21:"2008/06/dsc02085.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"dsc020851-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"dsc020851-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"dsc020851-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"dsc020851-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2.899999999999999911182158029987476766109466552734375;s:6:"credit";s:0:"";s:6:"camera";s:8:"DSC-S930";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1288861799;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"6.4";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.008";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -1182,7 +1182,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=764</link>
 		<pubDate>Fri, 15 Jul 2011 21:47:17 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/07/dsc20051220_173257_1191.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc20051220_173257_119.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/dsc20051220_173257_119.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Rusty rails with fishplate, Kojonup]]></excerpt:encoded>
@@ -1198,14 +1198,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/07/dsc20051220_173257_1191.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc20051220_173257_119.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/07/dsc20051220_173257_1191.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2008/06/dsc20051220_173257_119.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1066;s:4:"file";s:35:"2011/07/dsc20051220_173257_1191.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"dsc20051220_173257_1191-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"dsc20051220_173257_1191-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:36:"dsc20051220_173257_1191-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:35:"dsc20051220_173257_1191-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:6.70000000000000017763568394002504646778106689453125;s:6:"credit";s:0:"";s:6:"camera";s:13:"Canon EOS 10D";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1135099977;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"50";s:3:"iso";s:3:"400";s:13:"shutter_speed";s:18:"0.0013333333333333";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1066;s:4:"file";s:35:"2008/06/dsc20051220_173257_119.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"dsc20051220_173257_1191-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"dsc20051220_173257_1191-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:36:"dsc20051220_173257_1191-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:35:"dsc20051220_173257_1191-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:6.70000000000000017763568394002504646778106689453125;s:6:"credit";s:0:"";s:6:"camera";s:13:"Canon EOS 10D";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1135099977;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"50";s:3:"iso";s:3:"400";s:13:"shutter_speed";s:18:"0.0013333333333333";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -1249,7 +1249,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=765</link>
 		<pubDate>Fri, 15 Jul 2011 21:47:20 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/07/dscn33161.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dscn3316.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/dscn3316.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Sea and rocks, Plimmerton, New Zealand]]></excerpt:encoded>
@@ -1265,14 +1265,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/07/dscn33161.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dscn3316.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/07/dscn33161.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2008/06/dscn3316.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:21:"2011/07/dscn33161.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"dscn33161-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"dscn33161-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"dscn33161-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"dscn33161-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:7.5999999999999996447286321199499070644378662109375;s:6:"credit";s:0:"";s:6:"camera";s:5:"E4300";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1170775967;s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"8";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:18:"0.0045454545454545";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:21:"2008/06/dscn3316.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"dscn33161-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"dscn33161-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"dscn33161-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"dscn33161-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:7.5999999999999996447286321199499070644378662109375;s:6:"credit";s:0:"";s:6:"camera";s:5:"E4300";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1170775967;s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"8";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:18:"0.0045454545454545";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -1316,7 +1316,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=766</link>
 		<pubDate>Fri, 15 Jul 2011 21:47:23 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/07/michelle_0491.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/michelle_049.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/michelle_049.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Beach at Big Sur, CA]]></excerpt:encoded>
@@ -1332,14 +1332,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/07/michelle_0491.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/michelle_049.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/07/michelle_0491.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2008/06/michelle_049.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:25:"2011/07/michelle_0491.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"michelle_0491-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"michelle_0491-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"michelle_0491-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:25:"michelle_0491-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:7.0999999999999996447286321199499070644378662109375;s:6:"credit";s:0:"";s:6:"camera";s:18:"Canon PowerShot G3";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1096133874;s:9:"copyright";s:0:"";s:12:"focal_length";s:7:"15.8125";s:3:"iso";i:0;s:13:"shutter_speed";s:7:"0.00625";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:25:"2008/06/michelle_049.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"michelle_0491-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:25:"michelle_0491-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"michelle_0491-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:25:"michelle_0491-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:7.0999999999999996447286321199499070644378662109375;s:6:"credit";s:0:"";s:6:"camera";s:18:"Canon PowerShot G3";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1096133874;s:9:"copyright";s:0:"";s:12:"focal_length";s:7:"15.8125";s:3:"iso";i:0;s:13:"shutter_speed";s:7:"0.00625";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -1383,7 +1383,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=767</link>
 		<pubDate>Fri, 15 Jul 2011 21:47:26 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/07/windmill1.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/windmill.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Objects/Windmill.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Windmill shrouded in fog at a farm outside of Walker, Iowa]]></excerpt:encoded>
@@ -1399,14 +1399,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/07/windmill1.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/windmill.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/07/windmill1.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2008/06/windmill.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:21:"2011/07/windmill1.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"windmill1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"windmill1-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"windmill1-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"windmill1-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:5.5999999999999996447286321199499070644378662109375;s:6:"credit";s:0:"";s:6:"camera";s:8:"DiMAGE 7";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1125077631;s:9:"copyright";s:0:"";s:12:"focal_length";s:11:"50.69140625";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:18:"0.0055555555555556";s:5:"title";s:7:"DCF 1.0";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1200;s:4:"file";s:21:"2008/06/windmill.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"windmill1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"windmill1-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"windmill1-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"windmill1-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:5.5999999999999996447286321199499070644378662109375;s:6:"credit";s:0:"";s:6:"camera";s:8:"DiMAGE 7";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1125077631;s:9:"copyright";s:0:"";s:12:"focal_length";s:11:"50.69140625";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:18:"0.0055555555555556";s:5:"title";s:7:"DCF 1.0";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -1450,9 +1450,9 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=768</link>
 		<pubDate>Fri, 15 Jul 2011 21:49:48 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/07/img_0513-11.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/img_0513-1.jpg</guid>
 		<description></description>
-		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/IMG_0513-1.JPG.html]]></content:encoded>
+		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/IMG_0513-.jpg.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Sunrise over the coast in Huatulco, Oaxaca, Mexico]]></excerpt:encoded>
 		<wp:post_id>768</wp:post_id>
 		<wp:post_date>2011-07-15 14:49:48</wp:post_date>
@@ -1466,14 +1466,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/07/img_0513-11.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/img_0513-1.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/07/img_0513-11.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2008/06/img_0513-1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:533;s:4:"file";s:23:"2011/07/img_0513-11.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"img_0513-11-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:23:"img_0513-11-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:23:"img_0513-11-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:5.5999999999999996447286321199499070644378662109375;s:6:"credit";s:10:"Picasa 2.0";s:6:"camera";s:12:"Canon EOS 5D";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1158217614;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"105";s:3:"iso";s:3:"400";s:13:"shutter_speed";s:5:"0.005";s:5:"title";s:32:"Alas! I have found my Shangri-La";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:533;s:4:"file";s:23:"2008/06/img_0513-1.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"img_0513-11-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:23:"img_0513-11-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:23:"img_0513-11-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:5.5999999999999996447286321199499070644378662109375;s:6:"credit";s:10:"Picasa 2.0";s:6:"camera";s:12:"Canon EOS 5D";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1158217614;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"105";s:3:"iso";s:3:"400";s:13:"shutter_speed";s:5:"0.005";s:5:"title";s:32:"Alas! I have found my Shangri-La";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -1517,7 +1517,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=769</link>
 		<pubDate>Fri, 15 Jul 2011 21:50:37 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/07/img_07471.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/img_0747.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/main.php?g2_view=dynamicalbum.UpdatesAlbum&amp;g2_itemId=25770]]></content:encoded>
 		<excerpt:encoded><![CDATA[Jericoacoara Ceara Brasil]]></excerpt:encoded>
@@ -1533,14 +1533,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/07/img_07471.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/img_0747.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/07/img_07471.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2008/06/img_0747.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1066;s:4:"file";s:21:"2011/07/img_07471.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"img_07471-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"img_07471-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"img_07471-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"img_07471-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:11;s:6:"credit";s:0:"";s:6:"camera";s:19:"Canon EOS REBEL T2i";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1271654325;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"18";s:3:"iso";s:3:"800";s:13:"shutter_speed";s:7:"0.00125";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1066;s:4:"file";s:21:"2008/06/img_0747.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"img_07471-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"img_07471-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"img_07471-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"img_07471-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:11;s:6:"credit";s:0:"";s:6:"camera";s:19:"Canon EOS REBEL T2i";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1271654325;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"18";s:3:"iso";s:3:"800";s:13:"shutter_speed";s:7:"0.00125";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -1584,7 +1584,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=770</link>
 		<pubDate>Fri, 15 Jul 2011 21:51:19 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/07/img_07671.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/img_0767.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/v/Landscapes/ocean/IMG_0767.JPG.html]]></content:encoded>
 		<excerpt:encoded><![CDATA[Coastline in Huatulco, Oaxaca, Mexico]]></excerpt:encoded>
@@ -1600,14 +1600,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/07/img_07671.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/img_0767.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/07/img_07671.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2008/06/img_0767.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:533;s:4:"file";s:21:"2011/07/img_07671.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"img_07671-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"img_07671-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"img_07671-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:10;s:6:"credit";s:10:"Picasa 2.6";s:6:"camera";s:12:"Canon EOS 5D";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1158320386;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"105";s:3:"iso";s:3:"400";s:13:"shutter_speed";s:5:"0.002";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:800;s:6:"height";i:533;s:4:"file";s:21:"2008/06/img_0767.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"img_07671-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"img_07671-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"img_07671-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:10;s:6:"credit";s:10:"Picasa 2.6";s:6:"camera";s:12:"Canon EOS 5D";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1158320386;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"105";s:3:"iso";s:3:"400";s:13:"shutter_speed";s:5:"0.002";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -1651,7 +1651,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=771</link>
 		<pubDate>Fri, 15 Jul 2011 21:51:57 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2011/07/img_83991.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/img_8399.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[Public domain via http://www.burningwell.org/gallery2/main.php?g2_view=dynamicalbum.UpdatesAlbum&amp;g2_itemId=25774]]></content:encoded>
 		<excerpt:encoded><![CDATA[Boat BW PB Barco Texture Beautiful Fishing]]></excerpt:encoded>
@@ -1667,14 +1667,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2011/07/img_83991.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/img_8399.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2011/07/img_83991.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2008/06/img_8399.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1066;s:4:"file";s:21:"2011/07/img_83991.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"img_83991-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"img_83991-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"img_83991-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"img_83991-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:4.5;s:6:"credit";s:0:"";s:6:"camera";s:26:"Canon EOS DIGITAL REBEL XT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1192368714;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"75";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.004";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1600;s:6:"height";i:1066;s:4:"file";s:21:"2008/06/img_8399.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"img_83991-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"img_83991-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"img_83991-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:21:"img_83991-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:4.5;s:6:"credit";s:0:"";s:6:"camera";s:26:"Canon EOS DIGITAL REBEL XT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1192368714;s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"75";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.004";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
@@ -1718,7 +1718,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=807</link>
 		<pubDate>Mon, 04 Jun 2012 18:36:56 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2012/06/dsc20040724_152504_5321.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2012/06/dsc20040724_152504_532.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1734,14 +1734,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2012/06/dsc20040724_152504_5321.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/09/dsc20040724_152504_532.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/06/dsc20040724_152504_5321.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2012/06/dsc20040724_152504_532.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:35:"2012/06/dsc20040724_152504_5321.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"dsc20040724_152504_5321-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"dsc20040724_152504_5321-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:35:"dsc20040724_152504_5321-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1090682704;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"9.7";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:4:"0.02";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:35:"2012/06/dsc20040724_152504_532.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"dsc20040724_152504_5321-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"dsc20040724_152504_5321-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:35:"dsc20040724_152504_5321-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1090682704;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"9.7";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:4:"0.02";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_attachment_original_parent_id</wp:meta_key>
@@ -1761,7 +1761,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=811</link>
 		<pubDate>Mon, 04 Jun 2012 18:58:15 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2012/06/dsc20050604_133440_342111.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050604_133440_34211.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1777,14 +1777,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2012/06/dsc20050604_133440_342111.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/dsc20050604_133440_34211.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/06/dsc20050604_133440_342111.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2012/06/dsc20050604_133440_34211.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:37:"2012/06/dsc20050604_133440_342111.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:37:"dsc20050604_133440_342111-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:37:"dsc20050604_133440_342111-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:37:"dsc20050604_133440_342111-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1117892080;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"9.7";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:6:"0.0125";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:37:"2012/06/dsc20050604_133440_34211.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:37:"dsc20050604_133440_342111-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:37:"dsc20050604_133440_342111-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:37:"dsc20050604_133440_342111-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1117892080;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"9.7";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:6:"0.0125";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_attachment_original_parent_id</wp:meta_key>
@@ -1804,7 +1804,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=821</link>
 		<pubDate>Thu, 05 Jul 2012 16:49:29 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2012/07/originaldixielandjazzbandwithalbernard-stlouisblues1.mp3</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues.mp3</guid>
 		<description></description>
 		<content:encoded><![CDATA[St. Louis Blues, by Original Dixieland Jazz Band with Al Bernard (public domain)]]></content:encoded>
 		<excerpt:encoded><![CDATA[St. Louis Blues, by Original Dixieland Jazz Band with Al Bernard (public domain)]]></excerpt:encoded>
@@ -1820,7 +1820,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2012/07/originaldixielandjazzbandwithalbernard-stlouisblues1.mp3</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2008/06/originaldixielandjazzbandwithalbernard-stlouisblues.mp3</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2012/07/originaldixielandjazzbandwithalbernard-stlouisblues1.mp3]]></wp:meta_value>
@@ -1835,7 +1835,7 @@
 		<link>http://kassad-tekapo.sqale.jp/about/clearing-floats/olympus-digital-camera/</link>
 		<pubDate>Thu, 05 Jul 2012 18:07:34 +0000</pubDate>
 		<dc:creator><![CDATA[themedemos]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2012/07/manhattansummer1.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2010/08/manhattansummer.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1851,14 +1851,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2012/07/manhattansummer1.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2010/08/manhattansummer.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2012/07/manhattansummer1.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2012/07/manhattansummer.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:28:"2012/07/manhattansummer1.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:28:"manhattansummer1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:28:"manhattansummer1-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:28:"manhattansummer1-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2.79999999999999982236431605997495353221893310546875;s:6:"credit";s:0:"";s:6:"camera";s:11:"C990Z,D490Z";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1089358496;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"5.6";s:3:"iso";s:3:"200";s:13:"shutter_speed";s:17:"0.076923076923077";s:5:"title";s:22:"OLYMPUS DIGITAL CAMERA";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:28:"2012/07/manhattansummer.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:28:"manhattansummer1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:28:"manhattansummer1-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:28:"manhattansummer1-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2.79999999999999982236431605997495353221893310546875;s:6:"credit";s:0:"";s:6:"camera";s:11:"C990Z,D490Z";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1089358496;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"5.6";s:3:"iso";s:3:"200";s:13:"shutter_speed";s:17:"0.076923076923077";s:5:"title";s:22:"OLYMPUS DIGITAL CAMERA";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2351,7 +2351,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:400;s:4:"file";s:37:"2013/03/image-alignment-1200x4002.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:37:"image-alignment-1200x4002-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:37:"image-alignment-1200x4002-300x100.jpg";s:5:"width";i:300;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:38:"image-alignment-1200x4002-1024x341.jpg";s:5:"width";i:1024;s:6:"height";i:341;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:37:"image-alignment-1200x4002-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1200;s:6:"height";i:400;s:4:"file";s:37:"2013/03/image-alignment-1200x4002.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:37:"image-alignment-1200x4002-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:37:"image-alignment-1200x4002-300x100.jpg";s:5:"width";i:300;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:38:"image-alignment-1200x4002-1024x34.jpg";s:5:"width";i:1024;s:6:"height";i:341;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:37:"image-alignment-1200x4002-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>pre_import_post_parent</wp:meta_key>
@@ -2423,7 +2423,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/03/unicorn-wallpaper.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2012/12/unicorn-wallpaper.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/03/unicorn-wallpaper.jpg]]></wp:meta_value>
@@ -2502,7 +2502,7 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/04/triforce-wallpaper.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2010/08/triforce-wallpaper.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
 			<wp:meta_value><![CDATA[2013/04/triforce-wallpaper.jpg]]></wp:meta_value>
@@ -2517,7 +2517,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=1629</link>
 		<pubDate>Tue, 09 Apr 2013 20:17:31 +0000</pubDate>
 		<dc:creator><![CDATA[chipbennett]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/04/triforce-wallpaper1.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/04/triforce-wallpaper.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[It’s dangerous to go alone! Take this.]]></excerpt:encoded>
@@ -2533,14 +2533,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/04/triforce-wallpaper1.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2010/08/triforce-wallpaper.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/04/triforce-wallpaper1.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2013/04/triforce-wallpaper.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1131;s:6:"height";i:707;s:4:"file";s:31:"2013/04/triforce-wallpaper1.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"triforce-wallpaper1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:31:"triforce-wallpaper1-300x187.jpg";s:5:"width";i:300;s:6:"height";i:187;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:32:"triforce-wallpaper1-1024x640.jpg";s:5:"width";i:1024;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:31:"triforce-wallpaper1-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1131;s:6:"height";i:707;s:4:"file";s:31:"2013/04/triforce-wallpaper.jpg";s:5:"sizes";a:4:{s:9:"thumbnail";a:4:{s:4:"file";s:31:"triforce-wallpaper1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:31:"triforce-wallpaper1-300x187.jpg";s:5:"width";i:300;s:6:"height";i:187;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:32:"triforce-wallpaper1-1024x640.jpg";s:5:"width";i:1024;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:31:"triforce-wallpaper1-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2579,7 +2579,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=1687</link>
 		<pubDate>Wed, 18 Sep 2013 21:37:05 +0000</pubDate>
 		<dc:creator><![CDATA[emiluzelac]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/09/dsc20040724_152504_5321.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/09/dsc20040724_152504_532.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2595,14 +2595,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/09/dsc20040724_152504_5321.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/09/dsc20040724_152504_532.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/09/dsc20040724_152504_5321.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2013/09/dsc20040724_152504_532.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:35:"2013/09/dsc20040724_152504_5321.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"dsc20040724_152504_5321-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"dsc20040724_152504_5321-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:35:"dsc20040724_152504_5321-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1090682704;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"9.7";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:4:"0.02";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:35:"2013/09/dsc20040724_152504_532.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:35:"dsc20040724_152504_5321-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:35:"dsc20040724_152504_5321-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:35:"dsc20040724_152504_5321-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1090682704;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"9.7";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:4:"0.02";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -2610,7 +2610,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=1688</link>
 		<pubDate>Wed, 18 Sep 2013 21:37:07 +0000</pubDate>
 		<dc:creator><![CDATA[WP-Hangouts]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/09/dsc20050604_133440_34211.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/09/dsc20050604_133440_3421.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2629,11 +2629,11 @@
 		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/09/dsc20050604_133440_34211.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/09/dsc20050604_133440_34211.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2013/09/dsc20050604_133440_3421.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:36:"2013/09/dsc20050604_133440_34211.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:36:"dsc20050604_133440_34211-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:36:"dsc20050604_133440_34211-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:36:"dsc20050604_133440_34211-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1117892080;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"9.7";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:6:"0.0125";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:36:"2013/09/dsc20050604_133440_3421.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:36:"dsc20050604_133440_34211-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:36:"dsc20050604_133440_34211-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:36:"dsc20050604_133440_34211-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1117892080;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"9.7";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:6:"0.0125";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -3521,7 +3521,7 @@
 		<link>http://kassad-tekapo.sqale.jp/?attachment_id=1689</link>
 		<pubDate>Wed, 18 Sep 2013 21:37:07 +0000</pubDate>
 		<dc:creator><![CDATA[emiluzelac]]></dc:creator>
-		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/09/dsc20050604_133440_342111.jpg</guid>
+		<guid isPermaLink="false">https://wpthemetestdata.files.wordpress.com/2013/09/dsc20050604_133440_34211.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3537,14 +3537,14 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/09/dsc20050604_133440_342111.jpg</wp:attachment_url>
+		<wp:attachment_url>https://wpthemetestdata.files.wordpress.com/2013/09/dsc20050604_133440_34211.jpg</wp:attachment_url>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[2013/09/dsc20050604_133440_342111.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2013/09/dsc20050604_133440_34211.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:37:"2013/09/dsc20050604_133440_342111.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:37:"dsc20050604_133440_342111-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:37:"dsc20050604_133440_342111-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:37:"dsc20050604_133440_342111-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1117892080;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"9.7";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:6:"0.0125";s:5:"title";s:0:"";}}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:480;s:4:"file";s:37:"2013/09/dsc20050604_133440_34211.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:37:"dsc20050604_133440_342111-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:37:"dsc20050604_133440_342111-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:14:"post-thumbnail";a:4:{s:4:"file";s:37:"dsc20050604_133440_342111-604x270.jpg";s:5:"width";i:604;s:6:"height";i:270;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:10:{s:8:"aperture";d:2;s:6:"credit";s:0:"";s:6:"camera";s:9:"CYBERSHOT";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1117892080;s:9:"copyright";s:0:"";s:12:"focal_length";s:3:"9.7";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:6:"0.0125";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -9272,40 +9272,6 @@ Quisque interdum felis a tellus. Aliquam sed diam ac velit aliquam rutrum. Morbi
 		</wp:postmeta>
 	</item>
 	<item>
-				<title>サンプルページ</title>
-		<link>http://kassad-tekapo.sqale.jp/sample-page/</link>
-		<pubDate>Fri, 25 Oct 2013 10:42:44 +0000</pubDate>
-		<dc:creator><![CDATA[WP-Hangouts]]></dc:creator>
-		<guid isPermaLink="false">http://kassad-tekapo.sqale.jp/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[これはサンプルページです。同じ位置に固定され、(多くのテーマでは) サイトナビゲーションメニューに含まれるため、ブログ投稿とは異なります。サイト訪問者に対して自分のことを説明する自己紹介ページを作成するのが一般的です。たとえば以下のようなものになります。
-
-<blockquote>はじめまして。昼間はバイク便のメッセンジャーとして働いていますが、俳優志望でもあります。これは僕のブログです。ロサンゼルスに住み、ジャックという名前のかわいい犬を飼っています。好きなものはピニャコラーダ (通り雨に濡れるのも) 。</blockquote>
-
-または、このようなものでもよいでしょう。
-
-<blockquote>XYZ 小道具株式会社は1971年の創立以来、高品質の小道具を皆様にご提供させていただいています。ゴッサム・シティに所在する当社では2,000名以上の社員が働いており、様々な形で地域のコミュニティへ貢献しています。</blockquote>
-
-新しく WordPress ユーザーになった方は、<a href="http://kassad-tekapo.sqale.jp/wp-admin/">ダッシュボード</a>へ行ってこのページを削除し、独自のコンテンツを含む新しいページを作成してください。それでは、お楽しみください !]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date>2013-10-25 10:42:44</wp:post_date>
-		<wp:post_date_gmt>2013-10-25 10:42:44</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>sample-page</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 				<title>このサイトについて</title>
 		<link>http://kassad-tekapo.sqale.jp/about/</link>
 		<pubDate>Mon, 26 Jul 2010 02:40:01 +0000</pubDate>
@@ -10062,7 +10028,7 @@ Quisque interdum felis a tellus. Aliquam sed diam ac velit aliquam rutrum. Morbi
 
 
 
-[caption id="attachment_905" align="alignright" width="300"]<img class="size-full wp-image-905 " title="画像配置 300x200" alt="画像配置 300x200" src="http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-300x200.jpg" width="300" height="200" /> 右側いるのほ良い気分です。[/caption]
+[caption id="attachment_905" align="alignright" width="300"]<img class="size-full wp-image-905 " title="画像配置 300x200" alt="画像配置 300x200" src="http://wpthemetestdata.files.wordpress.com/2013/03/image-alignment-300x200.jpg" width="300" height="200" /> 右側にいるのは良い気分です。[/caption]
 
 
 
@@ -16005,13 +15971,11 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 
 	<li>記事タイトル部分の見出しデザインが崩れていないか、文字が背景からはみ出していたりしないか確認しましょう。</li>
 
-	<li>previous_post_linkやnext_post_linkなどで前後の記事のタイトルを出力する場合も、レイアウト崩れが発生していないか確認しましょう。</li>
+	<li>the_post_navigation() などで前後の記事のタイトルを出力する場合も、レイアウト崩れが発生していないか確認しましょう。</li>
 
 	<li>その他、ウィジェットやプラグイン等でいろいろな場所に記事タイトルが出力されるケースが多いので併せて確認しましょう。</li>
 
-	<li>用途に応じて、PHPの<a href="http://www.php.net/manual/ja/function.mb-substr.php" target="_blank">mb_substr</a>や<a href="http://www.php.net/manual/ja/function.mb-strlen.php" target="_blank">mb_strlen</a>関数を使って文字列をトリミングするという手もあります。
-
-※その際、<a href="http://wpdocs.sourceforge.jp/%E3%83%87%E3%83%BC%E3%82%BF%E6%A4%9C%E8%A8%BC" target="_blank">データの無害化 (サニタイズ) </a>にも配慮するとより盤石です。</li>
+	<li>用途に応じて、wp_trim_words() 関数を使って文字列をトリミングするという手もあります。</li>
 
 </ul>]]></content:encoded>
 

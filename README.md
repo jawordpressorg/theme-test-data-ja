@@ -1,12 +1,17 @@
 theme-test-data-ja
 ==================
 
-This is a theme unit test data Japanese version.
+This is a Japanese version of theme unit test data.
 
-See for more details about [Theme Unit Test](git@github.com:jawordpressorg/theme-test-data-ja.git).
+See for more about [Theme Unit Test on WordPress Codex](https://codex.wordpress.org/Theme_Unit_Test).
 
 テーマユニットテストデータの日本語版です。
 
+- wordpress-theme-test-data-ja.xml
+  - テーマユニットテストデータの日本語版
+- wordpress-theme-test-date-ja.xml
+  - ファイル名をタイポしているので削除しました。
+  
 管理画面のツール->インポートの「WordPress」からインポートして使ってください。
 
 ***
