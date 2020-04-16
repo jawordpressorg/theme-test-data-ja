@@ -10583,7 +10583,7 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 	<item>
 				<title>予約投稿</title>
 		<link>http://kassad-tekapo.sqale.jp/scheduled/</link>
-		<pubDate>Wed, 01 Jan 2020 19:00:18 +0000</pubDate>
+		<pubDate>Wed, 01 Jan 2030 19:00:18 +0000</pubDate>
 		<dc:creator><![CDATA[WP-Hangouts]]></dc:creator>
 		<guid isPermaLink="false">http://wpthemetestdata.wordpress.com/?p=418</guid>
 		<description></description>
@@ -10594,8 +10594,8 @@ Superscript タグ <code>&lt;sup&gt;</code> を使うと E = MC<sup>2</sup> の�
 それまではテーマ上で表示されるべきではありません。]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1153</wp:post_id>
-		<wp:post_date>2020-01-01 12:00:18</wp:post_date>
-		<wp:post_date_gmt>2020-01-01 19:00:18</wp:post_date_gmt>
+		<wp:post_date>2030-01-01 12:00:18</wp:post_date>
+		<wp:post_date_gmt>2030-01-01 19:00:18</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
 		<wp:post_name>scheduled</wp:post_name>
